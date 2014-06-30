@@ -17,36 +17,57 @@
     <script type="text/javascript" src="scripts/Graph.js"></script>
     <script type="text/javascript" src="scripts/EventHandle.js"></script>
     <script>
-        $(document).ready(function(){
+        $(document).ready(function () {
             $('.su_panel').height($(window).height());
-            d3.json("json/startups_test.json", function(startups){
-               var root =  Startups.root(startups);
+            var w = 1280,
+                    h = 800,
+                    rx = w / 2,
+                    ry = h / 2,
+                    m0,
+                    rotate = 0;
+            var cluster = d3.layout.cluster()
+                    .size([360, ry - 120])
+                    .sort(function (a, b) {
+                        return d3.ascending(a.name, b.name);
+                    });
+
+            d3.json("json/startups_test.json", function (startups) {
+                var root = Startups.root(startups);
+                var nodes = cluster.nodes(root);
+
+                var links = Startups.keywords(nodes);
             });
         });
     </script>
 </head>
 <body>
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-md-2 su_panel">
-                <h2>Nom StartUp</h2>
-                <h3>sitestartup.com</h3>
-                <p>Description startup. Lorem Ipsum Dolor sit Amet nec mergitur et après je ne me souviens plus</p>
-                <div class="row">
-                    <div class="col-md-4"><span class="glyphicon glyphicon-euro"></span></div>
-                    <div class="col-md-8"><h4>Presidents:</h4>
-                    Monsieur John Doe</div>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-2 su_panel">
+            <h2>Nom StartUp</h2>
+
+            <h3>sitestartup.com</h3>
+
+            <p>Description startup. Lorem Ipsum Dolor sit Amet nec mergitur et après je ne me souviens plus</p>
+
+            <div class="row">
+                <div class="col-md-4"><span class="glyphicon glyphicon-euro"></span></div>
+                <div class="col-md-8"><h4>Presidents:</h4>
+                    Monsieur John Doe
                 </div>
             </div>
-            <div class="col-md-8 su_center"></div>
-            <div class="col-md-2 su_panel">
-                <h2>Fil d'actualité des Tweets</h2>
-                <p><strong>Nom Twittos</strong> @twittos <br>
-                <small>Il y a 13h</small></p>
-                <p>Contenu du tweet lorem ipsum dolor sit amet nec mergitur <br>
+        </div>
+        <div class="col-md-8 su_center"></div>
+        <div class="col-md-2 su_panel">
+            <h2>Fil d'actualité des Tweets</h2>
+
+            <p><strong>Nom Twittos</strong> @twittos <br>
+                <small>Il y a 13h</small>
+            </p>
+            <p>Contenu du tweet lorem ipsum dolor sit amet nec mergitur <br>
                 <a href="#">http://adressdutwiit</a> <a href="#">#hashtags</a></p>
-            </div>
         </div>
     </div>
+</div>
 </body>
 </html>
