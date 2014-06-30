@@ -1,25 +1,73 @@
 [
     {
-        "name": "startup 1",
+        "name": "startup1",
         "category": "1",
         "keywords": ["1", "2", "3", "4"],
-        "value": 12
+        "value": 25
     },
     {
-        "name": "startup 2",
+        "name": "startup2",
         "category": "2",
         "keywords": ["1"],
-        "value": 12
+        "value": 70
     },
     {
-        "name": "startup 3",
+        "name": "startup3",
         "category": "2",
         "keywords": ["2", "3"],
+        "value": 35
+    },
+    {
+        "name": "startup4",
+        "category": "2",
+        "keywords": ["4"],
         "value": 12
     },
     {
-        "name": "startup 4",
+        "name": "startup5",
+        "category": "1",
+        "keywords": ["1", "2", "3", "4"],
+        "value": 25
+    },
+    {
+        "name": "startup6",
         "category": "2",
+        "keywords": ["1"],
+        "value": 70
+    },
+    {
+        "name": "startup7",
+        "category": "3",
+        "keywords": ["2", "3"],
+        "value": 35
+    },
+    {
+        "name": "startup8",
+        "category": "3",
+        "keywords": ["4"],
+        "value": 12
+    },
+    {
+        "name": "startup9",
+        "category": "3",
+        "keywords": ["1", "2", "3", "4"],
+        "value": 25
+    },
+    {
+        "name": "startup10",
+        "category": "3",
+        "keywords": ["1"],
+        "value": 70
+    },
+    {
+        "name": "startup11",
+        "category": "3",
+        "keywords": ["2", "3"],
+        "value": 35
+    },
+    {
+        "name": "startup12",
+        "category": "3",
         "keywords": ["4"],
         "value": 12
     }
