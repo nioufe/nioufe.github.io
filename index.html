@@ -13,11 +13,15 @@
     <script type="text/javascript" src="bower_components/d3/d3.js"></script>
 
     <script type="text/javascript" src="scripts/UIPanels.js"></script>
+    <script type="text/javascript" src="scripts/Startups.js"></script>
     <script type="text/javascript" src="scripts/Graph.js"></script>
     <script type="text/javascript" src="scripts/EventHandle.js"></script>
     <script>
         $(document).ready(function(){
             $('.su_panel').height($(window).height());
+            d3.json("json/startups_test.json", function(startups){
+               var root =  Startups.root(startups);
+            });
         });
     </script>
 </head>

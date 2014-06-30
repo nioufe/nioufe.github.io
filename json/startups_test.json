@@ -1,0 +1,26 @@
+[
+    {
+        "name": "startup 1",
+        "category": "1",
+        "keywords": ["1", "2", "3", "4"],
+        "value": 12
+    },
+    {
+        "name": "startup 2",
+        "category": "2",
+        "keywords": ["1"],
+        "value": 12
+    },
+    {
+        "name": "startup 3",
+        "category": "2",
+        "keywords": ["2", "3"],
+        "value": 12
+    },
+    {
+        "name": "startup 4",
+        "category": "2",
+        "keywords": ["4"],
+        "value": 12
+    }
+]
