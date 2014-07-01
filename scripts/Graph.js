@@ -8,7 +8,7 @@ var Graph = {};
         var colors = {
             '1': '#bdccd4',
             '2': '#c72727',
-            '3': '#d5cdbd',
+            '3': '#b8b3aa',
             '4': '#fbb584',
             '5': '#cea08f',
             '6': '#5b7092'
@@ -228,6 +228,7 @@ var Graph = {};
     }
 
     function mouseover(d) {
+        UIPanels.changeStartup(d);
         svg.select('#node-' + d.name)
             .classed('current', true);
         svg.selectAll("path.link.target-" + d.name)
