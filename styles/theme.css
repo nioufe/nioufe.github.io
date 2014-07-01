@@ -23,28 +23,27 @@ path.arc {
 
 .link {
     fill: none;
-    stroke: #1f77b4;
-    stroke-opacity: .4;
+    stroke: #ffffff;
+    stroke-opacity: .2;
     pointer-events: none;
 }
 
 .link.source, .link.target {
     stroke-opacity: 1;
-    stroke-width: 2px;
 }
 
+.node rect{
+    opacity: .4;
+}
 .node.target {
     fill: #d62728 !important;
 }
-
-.link.source {
-    stroke: #d62728;
+.node.target rect, .node.source rect, .node.current rect{
+    opacity: 1;
 }
-
 .node.source {
     fill: #2ca02c;
 }
 
-.link.target {
-    stroke: #2ca02c;
+.partition {
 }
