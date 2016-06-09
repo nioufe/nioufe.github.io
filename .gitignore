@@ -1,5 +1,4 @@
 node_modules/
-bower_components/
 *.log
 .idea/
 build/
@@ -17,7 +16,8 @@ dist/
 .LSOverride
 
 # Icon must ends with two \r.
-Icon
+Icon
+
 
 # Thumbnails
 ._*
