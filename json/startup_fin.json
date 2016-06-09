@@ -1,6 +1,6 @@
 [
     {
-        "category": "1",
+        
         "Nb_tweets": "2260",
         "Screen_name": "AdopteUnMec",
         "Nb_follow": "183",
@@ -27,14 +27,14 @@
         "name": "AdopteUnMec.com",
         "Nb_followers": "10151",
         "url": "http://www.adopteunmec.com/",
-        "partnerType": "SOCIAL",
+        "category": "SOCIAL",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/AdopteUnMec.com.png",
         "Description_Tw": "Boutique d'hommes-objets",
         "Url_Tw": "http://t.co/c9YDlBCpFM"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "253",
         "Screen_name": "Adyoulike",
         "Nb_follow": "1",
@@ -62,14 +62,14 @@
         "name": "Adyoulike",
         "Nb_followers": "337",
         "url": "http://www.adyoulike.com/",
-        "partnerType": "BUSINESS",
+        "category": "BUSINESS",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/adyoulike.png",
         "Description_Tw": "Native Advertising Technology - We make ads that you like",
         "Url_Tw": "http://t.co/GgDObl3SUK"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "2852",
         "Screen_name": "AgoraPulse",
         "Nb_follow": "915",
@@ -97,14 +97,14 @@
         "name": "AgoraPulse",
         "Nb_followers": "1599",
         "url": "http://www.agorapulse.com/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/agorapulse.png",
         "Description_Tw": "Facebook Social CRM Platform. Manage your Page. Qualify your Fans. Install and Manage Facebook Apps (Sweepstakes, Quiz, Photo Contest, etc.) Try us for Free :-)",
         "Url_Tw": "http://t.co/XoKyjIdvcB"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "1212",
         "Screen_name": "AJSTAGE",
         "Nb_follow": "535",
@@ -132,14 +132,14 @@
         "name": "AJStages",
         "Nb_followers": "649",
         "url": "http://www.ajstage.com/",
-        "partnerType": "EMPLOI",
+        "category": "EMPLOI",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/ajstage.jpg",
         "Description_Tw": "Sp\u2019\u00a9cialiste en recrutement de stagiaires, d'alternants et de jeunes dipl\u2019\u201am\u2019\u00a9s",
         "Url_Tw": "http://t.co/iiXkSZ7duM"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "",
         "Screen_name": "",
         "Nb_follow": "",
@@ -167,14 +167,14 @@
         "name": "Aliaz",
         "Nb_followers": "",
         "url": "http://www.aliaz.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/aliaz.jpg",
         "Description_Tw": "",
         "Url_Tw": ""
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "2643",
         "Screen_name": "AlittleMarket",
         "Nb_follow": "665",
@@ -202,14 +202,14 @@
         "name": "aLittleMarket",
         "Nb_followers": "5277",
         "url": "http://www.alittlemarket.com",
-        "partnerType": "ECOMMERCE",
+        "category": "ECOMMERCE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/aLittleMarket.jpg",
         "Description_Tw": "Le fait main est de retour ! Suivez nos aventures & achetez directement aux cr\u2019\u00a9ateurs ! D\u2019\u00a9couvrez  @alittlemercerie et @alittleepicerie",
         "Url_Tw": "http://t.co/gRSDN9Yq0U"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "341",
         "Screen_name": "allmyapps_fr",
         "Nb_follow": "763",
@@ -237,14 +237,14 @@
         "name": "Allmyapps",
         "Nb_followers": "528",
         "url": "http://allmyapps.fr/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/Allmyapps.png",
         "Description_Tw": "D\u2019\u00a9couvrez et installez en 1clic toutes les applications pour Windows",
         "Url_Tw": "http://t.co/ip5BHtBN2N"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "2560",
         "Screen_name": "Anaxago_team",
         "Nb_follow": "1551",
@@ -272,14 +272,14 @@
         "name": "Anaxago",
         "Nb_followers": "1560",
         "url": "https://www.anaxago.com/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/anaxago.png",
         "Description_Tw": "Le  #crowdfunding au service des #startup et #PME en pleine expansion. \n\n#Entrepreneurs, lancez votre campagne sur http://t.co/A6BQlVOQ !",
         "Url_Tw": "http://t.co/cNEOUCPQ7k"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "",
         "Screen_name": "",
         "Nb_follow": "",
@@ -307,14 +307,14 @@
         "name": "Ankama",
         "Nb_followers": "",
         "url": "http://www.ankama.com",
-        "partnerType": "ECOMMERCE",
+        "category": "ECOMMERCE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/ankama.jpg",
         "Description_Tw": "",
         "Url_Tw": ""
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "1323",
         "Screen_name": "AppGratuites",
         "Nb_follow": "74",
@@ -342,14 +342,14 @@
         "name": "Appgratuites",
         "Nb_followers": "3234",
         "url": "http://www.appgratuites.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/Appgratuites.png",
         "Description_Tw": "Une appli moche mais des bons plans sympas",
         "Url_Tw": "http://t.co/HWG9ep7dEG"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "2032",
         "Screen_name": "archiduchesse",
         "Nb_follow": "125",
@@ -377,14 +377,14 @@
         "name": "Archiduchesse",
         "Nb_followers": "3467",
         "url": "http://www.archiduchesse.com/",
-        "partnerType": "ECOMMERCE",
+        "category": "ECOMMERCE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/archiduchesse.png",
         "Description_Tw": "Enlarge your tennis - Chaussettes et collants fabriqu\u2019\u00a9s en France",
         "Url_Tw": "http://t.co/kt8l6KJbyu"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "39105",
         "Screen_name": "atlantico_fr",
         "Nb_follow": "698",
@@ -412,14 +412,14 @@
         "name": "Atlantico",
         "Nb_followers": "42358",
         "url": "http://www.atlantico.fr",
-        "partnerType": "MEDIA",
+        "category": "MEDIA",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/atlantico.jpg",
         "Description_Tw": "Un vent nouveau sur l'info.\n\u0160\u2014\u201d L'info business sur @atlanticobiz\n\u0160\u2014\u201d 1er hors-s\u2019\u00a9rie papier http://t.co/U7JzAlg214\n\u0160\u2014\u201d Atlantico Editions http://t.co/6vwXHi6ZNI",
         "Url_Tw": "http://t.co/sMOuKdvYvu"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "265",
         "Screen_name": "AttractiveWorld",
         "Nb_follow": "76",
@@ -447,14 +447,14 @@
         "name": "Attractive World",
         "Nb_followers": "614",
         "url": "http://www.attractiveworld.net/",
-        "partnerType": "SOCIAL",
+        "category": "SOCIAL",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/attractive world.jpg",
         "Description_Tw": "Attractive World, site de rencontres avec s\u2019\u00a9lection \u2019\u00be l'entr\u2019\u00a9e.",
         "Url_Tw": "http://t.co/MFLhf4fIGp"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "237",
         "Screen_name": "Automodeal",
         "Nb_follow": "277",
@@ -482,14 +482,14 @@
         "name": "AutomoDeal",
         "Nb_followers": "308",
         "url": "http://www.automodeal.fr/",
-        "partnerType": "ECOMMERCE",
+        "category": "ECOMMERCE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/automodeal.png",
         "Description_Tw": "Automodeal.fr, le site de bons plans de l'apr\u2019\u00e5s-vente automobile : T\u2019\u00a9l\u2019\u00a9chargez des coupons valables chez des garagistes de confiance pr\u2019\u00e5s de chez vous.",
         "Url_Tw": "http://t.co/WRLVVtnQCN"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "382",
         "Screen_name": "Avis_verifies",
         "Nb_follow": "110",
@@ -517,14 +517,14 @@
         "name": "Avis-Verifies",
         "Nb_followers": "150",
         "url": "http://www.avis-verifies.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/avis-verifies.png",
         "Description_Tw": "Solution innovante d'avis clients pour sites e-commerce / France : http://t.co/btwtCq0Eq7 / Espagne : http://t.co/O78IMNCsYb",
         "Url_Tw": ""
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "3908",
         "Screen_name": "azendoo",
         "Nb_follow": "2871",
@@ -552,14 +552,14 @@
         "name": "Azendoo",
         "Nb_followers": "2879",
         "url": "http://www.azendoo.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/azendoo.jpg",
         "Description_Tw": "A real Social Task and Project Management Solution. Dedicated to #Teamwork, #Collaboration and #GettingStuffDone. All for FREE",
         "Url_Tw": "http://t.co/6zrNZGJlWa"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "1610",
         "Screen_name": "babeldoor",
         "Nb_follow": "588",
@@ -587,14 +587,14 @@
         "name": "Babeldoor",
         "Nb_followers": "658",
         "url": "http://www.babeldoor.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/babeldoor.jpg",
         "Description_Tw": "Babeldoor proposes a new way of participative and united financing to facilitate the realization of personal, professional and associative projects of all kinds",
         "Url_Tw": "http://t.co/pWKcK71ntl"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "32136",
         "Screen_name": "Babelio",
         "Nb_follow": "1046",
@@ -622,14 +622,14 @@
         "name": "Babelio",
         "Nb_followers": "11569",
         "url": "http://www.babelio.com/",
-        "partnerType": "SOCIAL",
+        "category": "SOCIAL",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/babelio.jpg",
         "Description_Tw": "Le r\u2019\u00a9seau social du livre et des lecteurs",
         "Url_Tw": "http://t.co/WeqeKEyy7g"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "503",
         "Screen_name": "Bankeez",
         "Nb_follow": "471",
@@ -657,14 +657,14 @@
         "name": "Bankeez",
         "Nb_followers": "383",
         "url": "https://www.bankeez.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/bankeez.png",
         "Description_Tw": "http://t.co/BpxP6LJXb1, la solution s\u2019\u00a9curis\u2019\u00a9e pour toutes vos collectes d\u0160\u2014\u00c8argent : remboursement, cagnotte, collecte de paiements, de cotisations ou de dons",
         "Url_Tw": "http://t.co/3qXQcxuUju"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "5564",
         "Screen_name": "BDGest",
         "Nb_follow": "155",
@@ -692,14 +692,14 @@
         "name": "BD Gest",
         "Nb_followers": "3769",
         "url": "http://www.bdgest.com/",
-        "partnerType": "MEDIA",
+        "category": "MEDIA",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/bdgest.jpg",
         "Description_Tw": "Le site de r\u2019\u00a9f\u2019\u00a9rence de la bande dessin\u2019\u00a9e - Logiciel de gestion de collection BD, Forum, Chroniques, Preview, News, Dossiers, Jeux, ...",
         "Url_Tw": "http://t.co/UlbQAqtyhX"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "",
         "Screen_name": "",
         "Nb_follow": "",
@@ -727,14 +727,14 @@
         "name": "Beansight",
         "Nb_followers": "",
         "url": "http://www.beansight.com/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/beansight.png",
         "Description_Tw": "",
         "Url_Tw": ""
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "2208",
         "Screen_name": "Beepjob",
         "Nb_follow": "633",
@@ -762,14 +762,14 @@
         "name": "Beepjob",
         "Nb_followers": "3270",
         "url": "http://www.beepjob.com/index.php",
-        "partnerType": "EMPLOI",
+        "category": "EMPLOI",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/beepjob.jpg",
         "Description_Tw": "beepjob est un site et une application mobile de petites annonces d'#emploi g\u2019\u00a9olocalis\u2019\u00a9es. Nous tweetons sur l'actualit\u2019\u00a9 du #recrutement",
         "Url_Tw": "http://t.co/xFr2SZNCyD"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "",
         "Screen_name": "",
         "Nb_follow": "",
@@ -797,14 +797,14 @@
         "name": "Beesent",
         "Nb_followers": "",
         "url": "http://www.beesent.com/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/beesent.png",
         "Description_Tw": "",
         "Url_Tw": ""
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "3459",
         "Screen_name": "BendNote",
         "Nb_follow": "174",
@@ -832,14 +832,14 @@
         "name": "Bendnote",
         "Nb_followers": "285",
         "url": "http://www.bendnote.com/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/bendnote.jpg",
         "Description_Tw": "Plateforme communautaire permettant la pratique de la musique sur internet via la proximit\u2019\u00a9 d'artistes internationaux avec des contenus in\u2019\u00a9dits et argument\u2019\u00a9s",
         "Url_Tw": "http://t.co/Dxj2UaGFc8"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "64",
         "Screen_name": "BestComparator",
         "Nb_follow": "14",
@@ -867,14 +867,14 @@
         "name": "BestComparator",
         "Nb_followers": "49",
         "url": "http://fr.bestcomparator.com/",
-        "partnerType": "ECOMMERCE",
+        "category": "ECOMMERCE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/bestcomparator.png",
         "Description_Tw": "Choisir ensemble, tout simplement. \nTrouvez rapidement et facilement les produits qui vous correspondent vraiment !",
         "Url_Tw": "http://t.co/BFHBs6pZS4"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "2049",
         "Screen_name": "BeyondCroissant",
         "Nb_follow": "1089",
@@ -902,14 +902,14 @@
         "name": "Beyondcroissant",
         "Nb_followers": "640",
         "url": "http://www.beyondcroissant.com",
-        "partnerType": "SOCIAL",
+        "category": "SOCIAL",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/beyondcroissant.jpg",
         "Description_Tw": "A rejoint @cookening avec @aureliedaniel! \nJoined @cookening with @aureliedaniel",
         "Url_Tw": "http://t.co/2R2e4KorBU"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "4159",
         "Screen_name": "bimeanalytics",
         "Nb_follow": "1871",
@@ -937,14 +937,14 @@
         "name": "Bime",
         "Nb_followers": "3417",
         "url": "http://fr.bimeanalytics.com/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/Bime.png",
         "Description_Tw": "The modern SaaS Business Intelligence solution - turn the web into a seamlessly connected data warehouse, no matter the data size. #BigData #BI #Cloud",
         "Url_Tw": "http://t.co/7Yjb7V4nZY"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "3833",
         "Screen_name": "BlaBlaCar_FR",
         "Nb_follow": "992",
@@ -972,14 +972,14 @@
         "name": "Blablacar",
         "Nb_followers": "6440",
         "url": "http://www.blablacar.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/blablacar.png",
         "Description_Tw": "The european ridesharing trusted community. 7 million members & 100% growth/year.  Backed by @Accel #collcons #mobility",
         "Url_Tw": "http://t.co/PT2CUMJcIz"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "94",
         "Screen_name": "blockbase",
         "Nb_follow": "54",
@@ -1007,14 +1007,14 @@
         "name": "Blockbase",
         "Nb_followers": "67",
         "url": "http://www.blockbase.com/",
-        "partnerType": "BUSINESS",
+        "category": "BUSINESS",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/blockbase.jpg",
         "Description_Tw": "- Collaborative solution for construction projects \n- @Batimat Innovation 2013 Winner \n- Run by @alielhariri & @lerigner",
         "Url_Tw": "http://t.co/GFQUh846"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "4163",
         "Screen_name": "bonitasoft",
         "Nb_follow": "3466",
@@ -1042,14 +1042,14 @@
         "name": "Bonitasoft",
         "Nb_followers": "4180",
         "url": "http://www.bonitasoft.com",
-        "partnerType": "BUSINESS",
+        "category": "BUSINESS",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/bonitasoft.png",
         "Description_Tw": "With 2.5M+ downloads and over 700 customers, BonitaSoft is the #1 growing provider of Open Source Business Process Management software.",
         "Url_Tw": "http://t.co/PhiyPPrugX"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "2740",
         "Screen_name": "bonnegueule",
         "Nb_follow": "62",
@@ -1077,14 +1077,14 @@
         "name": "Bonnegueule.fr",
         "Nb_followers": "3658",
         "url": "http://www.bonnegueule.fr",
-        "partnerType": "MEDIA",
+        "category": "MEDIA",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/Bonnegueule.jpg",
         "Description_Tw": "Blog Mode Homme, Conseils Pratiques et Pin-Ups Asiatiques",
         "Url_Tw": "http://t.co/3XyB0rMYxA"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "107",
         "Screen_name": "BudgetInsight",
         "Nb_follow": "21",
@@ -1112,14 +1112,14 @@
         "name": "Budgea",
         "Nb_followers": "75",
         "url": "http://www.budgea.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/budgea.png",
         "Description_Tw": "Comprenez et ma\u2019\u00c2trisez votre argent avec Budgea, la seule application qui anticipe vos finances.",
         "Url_Tw": "https://t.co/XDddjk4O"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "664",
         "Screen_name": "bulbintown",
         "Nb_follow": "1003",
@@ -1147,14 +1147,14 @@
         "name": "Bulb in Town",
         "Nb_followers": "10535",
         "url": "http://www.bulbintown.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/bulbintown.png",
         "Description_Tw": "Le site de #crowdfunding (#financement #participatif)  d\u2019\u00a9di\u2019\u00a9 aux acteurs de la #proximit\u2019\u00a9 :#commerces, #restaurants, #caf\u2019\u00a9s, #associations de #quartier",
         "Url_Tw": "http://t.co/pyEvakNSDy"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "",
         "Screen_name": "",
         "Nb_follow": "",
@@ -1182,14 +1182,14 @@
         "name": "Bulldozair",
         "Nb_followers": "",
         "url": "http://www.bulldozair.com/",
-        "partnerType": "BUSINESS",
+        "category": "BUSINESS",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/bulldozair.png",
         "Description_Tw": "",
         "Url_Tw": ""
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "1718",
         "Screen_name": "BunkrApp",
         "Nb_follow": "3411",
@@ -1217,14 +1217,14 @@
         "name": "Bunkr",
         "Nb_followers": "6267",
         "url": "http://www.bunkr.me",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/bunkr.jpg",
         "Description_Tw": "The best place for presentations. Any question, check our FAQ: http://t.co/GklCy9fuKU",
         "Url_Tw": "http://t.co/rxo8ynM7rr"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "177",
         "Screen_name": "buzzcarFR",
         "Nb_follow": "8",
@@ -1252,14 +1252,14 @@
         "name": "Buzzcar",
         "Nb_followers": "1",
         "url": "http://www.buzzcar.com/fr/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/buzzcar.png",
         "Description_Tw": "",
         "Url_Tw": "https://t.co/uShcXB9kvq"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "133",
         "Screen_name": "buzzea",
         "Nb_follow": "314",
@@ -1287,14 +1287,14 @@
         "name": "Buzzea",
         "Nb_followers": "325",
         "url": "http://www.buzzea.com/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/buzzea.jpeg",
         "Description_Tw": "",
         "Url_Tw": "http://t.co/hiPDy1tLx1"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "87",
         "Screen_name": "CptTrainEN",
         "Nb_follow": "127",
@@ -1322,14 +1322,14 @@
         "name": "Capitaine train",
         "Nb_followers": "125",
         "url": "http://www.capitainetrain.com/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/capitainetrain.jpg",
         "Description_Tw": "Capitaine Train is the fastest and easiest way to buy train tickets in Europe. We charge no booking fees. Choose from 13 000 destinations in 20 countries.",
         "Url_Tw": "https://t.co/aUkyEoV1jD"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "5261",
         "Screen_name": "carpoolingFR",
         "Nb_follow": "1596",
@@ -1357,14 +1357,14 @@
         "name": "Carpooling",
         "Nb_followers": "2465",
         "url": "http://www.carpooling.fr",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/carpooling.jpg",
         "Description_Tw": "carpooling.fr N\u00ce\u00e71 du #covoiturage en Europe, pour r\u2019\u00a9duire ses \u2019\u00a9missions de CO2 et ses co\u2019\u017dts de transport / Tweet\u2019\u00a9 par Claire & \u2019_lodie",
         "Url_Tw": "http://t.co/wJba625IO6"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "1317",
         "Screen_name": "ChooseYourBoss",
         "Nb_follow": "111",
@@ -1392,14 +1392,14 @@
         "name": "Chooseyourboss",
         "Nb_followers": "1021",
         "url": "http://www.chooseyourboss.com",
-        "partnerType": "EMPLOI",
+        "category": "EMPLOI",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/chooseyourboss.jpg",
         "Description_Tw": "Notre s\u2019\u00a9lection d'offres IT, vos r\u2019\u00e5gles du jeu. Avec ChooseYourBoss, reprenez le pouvoir.\nRetrouvez-nous \u2019\u00a9galement sur le blog.",
         "Url_Tw": "http://t.co/bMDUPOVsye"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "7690",
         "Screen_name": "cinemur",
         "Nb_follow": "1771",
@@ -1427,14 +1427,14 @@
         "name": "Cinemur",
         "Nb_followers": "3786",
         "url": "http://www.cinemur.fr",
-        "partnerType": "MEDIA",
+        "category": "MEDIA",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/cinemur.png",
         "Description_Tw": "Le nouveau r\u2019\u00a9flexe cin\u2019\u00a9ma",
         "Url_Tw": "http://t.co/7ZJGT1fK"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "906",
         "Screen_name": "CiteGreen",
         "Nb_follow": "445",
@@ -1462,14 +1462,14 @@
         "name": "Cit_Green",
         "Nb_followers": "973",
         "url": "https://www.citegreen.com/action/index",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/CiteGreen.jpg",
         "Description_Tw": "Et si on vous r\u2019\u00a9compensait pour vos bonnes actions environnementales ?",
         "Url_Tw": "http://t.co/q8RxN6opHe"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "",
         "Screen_name": "",
         "Nb_follow": "",
@@ -1497,14 +1497,14 @@
         "name": "Cleec",
         "Nb_followers": "",
         "url": "http://www.cleec.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/Cleec.jpg",
         "Description_Tw": "",
         "Url_Tw": ""
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "239",
         "Screen_name": "ClicRDV",
         "Nb_follow": "403",
@@ -1532,14 +1532,14 @@
         "name": "ClicRDV",
         "Nb_followers": "234",
         "url": "http://www.clicrdv.com/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/clicrdv.jpg",
         "Description_Tw": "ClicRDV est leader des solutions de prise de rendez-vous par Internet. #rdvenligne #saas #webtostore\nFiliale de @SolocalGroup, partenaire de @PagesJaunes",
         "Url_Tw": "http://t.co/ktxCiYyHCh"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "2357",
         "Screen_name": "Colunching",
         "Nb_follow": "855",
@@ -1567,14 +1567,14 @@
         "name": "COlunching",
         "Nb_followers": "666",
         "url": "http://www.colunching.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/colunching.jpg",
         "Description_Tw": "Gathering new people in great restaurants to socialize & rediscover dining. It's social networking for foodies. Feed your network! http://t.co/rWZmRrdicK",
         "Url_Tw": "http://t.co/I5ODOZd3f2"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "2465",
         "Screen_name": "Connect_StartUp",
         "Nb_follow": "474",
@@ -1602,14 +1602,14 @@
         "name": "Connecting STARTUPS",
         "Nb_followers": "2284",
         "url": "http://www.connectingstartups.com/Sign-Up/Index.html",
-        "partnerType": "MEDIA",
+        "category": "MEDIA",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/connectingstartups.png",
         "Description_Tw": "Connecting Startups: l'annuaire des prestataires de services aux jeunes entreprises. Tweet de #startup #entrepreneur #innovation organise les Ateliers Start'UP",
         "Url_Tw": "http://t.co/Cdl264hqG8"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "206",
         "Screen_name": "Cookening",
         "Nb_follow": "279",
@@ -1637,14 +1637,14 @@
         "name": "Cookening",
         "Nb_followers": "1699",
         "url": "http://www.cookening.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/cookening.jpeg",
         "Description_Tw": "Connecting People and Cultures through Food. Host or join home cooked meals around the world.\nNews in French: @cookeningFr",
         "Url_Tw": "http://t.co/3vPT3OwNws"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "1429",
         "Screen_name": "MyCozyCloud",
         "Nb_follow": "174",
@@ -1672,14 +1672,14 @@
         "name": "Cozycloud",
         "Nb_followers": "890",
         "url": "http://www.cozycloud.cc",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/cozycloud.png",
         "Description_Tw": "Cozy is a Personal Cloud You Can Host, Hack and Delete",
         "Url_Tw": "http://t.co/YD5WnF2VoG"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "2186",
         "Screen_name": "critizr",
         "Nb_follow": "761",
@@ -1707,14 +1707,14 @@
         "name": "Critizr",
         "Nb_followers": "775",
         "url": "http://www.critizr.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/critizr.jpg",
         "Description_Tw": "Service client nouvelle g\u2019\u00a9n\u2019\u00a9ration qui vous permet d'entrer en contact avec n'importe quel directeur de magasins ! \n\nLA VOIX DES CONSOMMATEURS !",
         "Url_Tw": "http://t.co/428L4Wdi8p"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "882",
         "Screen_name": "Cupofteach",
         "Nb_follow": "221",
@@ -1742,14 +1742,14 @@
         "name": "Cupofteach",
         "Nb_followers": "987",
         "url": "http://www.cupofteach.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/cupofteach.jpg",
         "Description_Tw": "Cup of teach est la premi\u2019\u00e5re universit\u2019\u00a9 entre particuliers. \nApprenons les uns des autres. \nhttp://t.co/XkrBkWU1am",
         "Url_Tw": "http://t.co/XkrBkWU1am"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "8512",
         "Screen_name": "Curioos",
         "Nb_follow": "2156",
@@ -1777,14 +1777,14 @@
         "name": "Curioos",
         "Nb_followers": "2348",
         "url": "http://www.curioos.com",
-        "partnerType": "ECOMMERCE",
+        "category": "ECOMMERCE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/curioos.jpg",
         "Description_Tw": "Curioos is a curated marketplace for digital art.\nDiscover & buy high-quality numbered art prints by the world's best digital artists | http://t.co/MIHVYeXtFl",
         "Url_Tw": "http://t.co/MIHVYeXtFl"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "3868",
         "Screen_name": "dashlane",
         "Nb_follow": "1886",
@@ -1812,14 +1812,14 @@
         "name": "Dashlane",
         "Nb_followers": "4028",
         "url": "https://www.dashlane.com/fr/features",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/dashlane.png",
         "Description_Tw": "Dashlane is the best password manager and secure digital wallet on the planet! Try our app for free at http://t.co/djeNsDKS8Z. Tweet @DashlaneSupport for help.",
         "Url_Tw": "http://t.co/djeNsDKS8Z"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "5161",
         "Screen_name": "datapublica",
         "Nb_follow": "618",
@@ -1847,14 +1847,14 @@
         "name": "Data-Publica",
         "Nb_followers": "4948",
         "url": "http://www.data-publica.com",
-        "partnerType": "BUSINESS",
+        "category": "BUSINESS",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/data-publica.png",
         "Description_Tw": "Data Publica, les donn\u2019\u00a9es pour votre business.",
         "Url_Tw": "http://t.co/LAEBNaCy8N"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "981",
         "Screen_name": "deways_fr",
         "Nb_follow": "1723",
@@ -1882,14 +1882,14 @@
         "name": "Deways",
         "Nb_followers": "1623",
         "url": "http://www.deways.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/deways.jpg",
         "Description_Tw": "C'\u2019\u00a9tait comment la voiture avant ? Communaut\u2019\u00a9 de la location de voiture par affinit\u2019\u00a9.\n#ConsoCollab #autopartage #SoLoMo #CollCons",
         "Url_Tw": "http://t.co/3mLjEXSkgf"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "5275",
         "Screen_name": "digikaa",
         "Nb_follow": "7882",
@@ -1917,14 +1917,14 @@
         "name": "Digikaa",
         "Nb_followers": "8290",
         "url": "http://www.digikaa.com/",
-        "partnerType": "SOCIAL",
+        "category": "SOCIAL",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/digikaa.png",
         "Description_Tw": "Cr\u2019\u00a9ateur de rencontres entre talents et entreprises du digital : D\u2019\u00a9veloppeurs, Designers, Marketers, Community Managers ... Agences, Startups, Pureplayers ...",
         "Url_Tw": "http://t.co/FBtd2gzewx"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "1249",
         "Screen_name": "dismoiou",
         "Nb_follow": "663",
@@ -1952,14 +1952,14 @@
         "name": "Dismoiou",
         "Nb_followers": "1449",
         "url": "http://www.dismoiou.fr",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/Dismoiou.png",
         "Description_Tw": "Compte officiel de Dismoio\u2019_, le service de recommandations de bonnes adresses par g\u2019\u00a9olocalisation.",
         "Url_Tw": "http://t.co/Dh36EBuV8f"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "882",
         "Screen_name": "doyoubuzz",
         "Nb_follow": "1024",
@@ -1987,14 +1987,14 @@
         "name": "Doyoubuzz",
         "Nb_followers": "1153",
         "url": "http://www.doyoubuzz.com",
-        "partnerType": "EMPLOI",
+        "category": "EMPLOI",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/Doyoubuzz.jpg",
         "Description_Tw": "DoYouBuzz lets you create an online resume website so you look your best on the web. It's free and super easy. Give it a try at http://t.co/lhzDS4Ok2j",
         "Url_Tw": "http://t.co/lhzDS4Ok2j"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "2025",
         "Screen_name": "drivy",
         "Nb_follow": "395",
@@ -2022,14 +2022,14 @@
         "name": "Drivy",
         "Nb_followers": "1943",
         "url": "http://www.drivy.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/drivy.png",
         "Description_Tw": "Location de voiture entre particuliers. Pour louer sa propre voiture, ou partir en week-end avec celle de son voisin.",
         "Url_Tw": "http://t.co/NNnNRFr4rE"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "6441",
         "Screen_name": "Evercontact",
         "Nb_follow": "933",
@@ -2057,14 +2057,14 @@
         "name": "Evercontact",
         "Nb_followers": "3658",
         "url": "http://www.evercontact.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/evercontact.png",
         "Description_Tw": "Automatically enrich your address book on Gmail, Google apps, Outlook, Salesforce and more! Tweets by @Brad2Earth",
         "Url_Tw": "http://t.co/BEOMrA7OIO"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "653",
         "Screen_name": "explee",
         "Nb_follow": "244",
@@ -2092,14 +2092,14 @@
         "name": "Explee",
         "Nb_followers": "532",
         "url": "http://www.explee.com/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/explee.jpeg",
         "Description_Tw": "Explee is an animated video editing tool allowing anyone to create awesome explaining videos in no time.\nWith Explee, Explain everything to everyone.",
         "Url_Tw": "http://t.co/X4Tb7WQgkn"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "2897",
         "Screen_name": "FAGUOShoes",
         "Nb_follow": "655",
@@ -2127,14 +2127,14 @@
         "name": "FAGUO shoes",
         "Nb_followers": "2429",
         "url": "http://www.faguo-shoes.com/",
-        "partnerType": "ECOMMERCE",
+        "category": "ECOMMERCE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/faguoshoes.jpeg",
         "Description_Tw": "Marque responsable de chaussures et accessoires. #mode #entrepreneuriat #environnement",
         "Url_Tw": "http://t.co/9GZuKc19mu"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "7654",
         "Screen_name": "Fidall_Fr",
         "Nb_follow": "7606",
@@ -2162,14 +2162,14 @@
         "name": "Fidall",
         "Nb_followers": "7655",
         "url": "http://www.fidall.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/fidall.png",
         "Description_Tw": "Toutes vos cartes de fid\u2019\u00a9lit\u2019\u00a9 dans votre mobile ! Adh\u2019\u00a9sion \u2019\u00be de nouvelles cartes, soldes de points et Bons Plans correspondants. Passbook et Samsung Wallet",
         "Url_Tw": "http://t.co/QBmP9TV1Rg"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "496",
         "Screen_name": "fidbacks",
         "Nb_follow": "653",
@@ -2197,14 +2197,14 @@
         "name": "Fidbacks",
         "Nb_followers": "644",
         "url": "http://www.fidbacks.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/fidbacks.png",
         "Description_Tw": "Fidbacks, the trust profile of the sharing economy / Avis-Clients the best ecommerce review provider. http://t.co/OtQxMGt8Ew",
         "Url_Tw": "http://t.co/y5UT2hk3XT"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "2319",
         "Screen_name": "fidme",
         "Nb_follow": "742",
@@ -2232,14 +2232,14 @@
         "name": "FidMe",
         "Nb_followers": "1757",
         "url": "http://www.fidme.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/fidme.jpg",
         "Description_Tw": "Porte-cartes de fid\u2019\u00a9lit\u2019\u00a9 mobile #1 Mobile loyalty wallet.\nVos cartes de fid\u2019\u00a9lit\u2019\u00a9 sur vos mobiles ! All your loyalty cards on your mobile !",
         "Url_Tw": "http://t.co/GL9o7iUZtC"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "274",
         "Screen_name": "footeo_officiel",
         "Nb_follow": "13",
@@ -2267,14 +2267,14 @@
         "name": "Footeo",
         "Nb_followers": "245",
         "url": "http://www.footeo.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/footeo.jpg",
         "Description_Tw": "",
         "Url_Tw": "http://t.co/Ctl5gtHKy5"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "",
         "Screen_name": "",
         "Nb_follow": "",
@@ -2302,14 +2302,14 @@
         "name": "FrizBiz",
         "Nb_followers": "",
         "url": "http://www.frizbiz.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/frizbiz.jpeg",
         "Description_Tw": "",
         "Url_Tw": ""
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "14298",
         "Screen_name": "gamergen_com",
         "Nb_follow": "274",
@@ -2337,14 +2337,14 @@
         "name": "Gamergen.com",
         "Nb_followers": "2515",
         "url": "http://www.gamergen.com",
-        "partnerType": "MEDIA",
+        "category": "MEDIA",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/meteo-consult.cccampaigns.png",
         "Description_Tw": "La r\u2019\u00a9f\u2019\u00a9rence du joueur de jeux vid\u2019\u00a9o et du geek sur consoles et mobiles",
         "Url_Tw": "http://t.co/CdYfkzonR2"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "45",
         "Screen_name": "GeekmemoreFR",
         "Nb_follow": "85",
@@ -2372,14 +2372,14 @@
         "name": "Geekmemore",
         "Nb_followers": "350",
         "url": "http://www.geekmemore.com",
-        "partnerType": "SOCIAL",
+        "category": "SOCIAL",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/geekmemore.jpg",
         "Description_Tw": "http://t.co/6QdRoUwwl9 c'est le premier site de rencontre 100% Geek, mais pas seulement...",
         "Url_Tw": "http://t.co/gfSOzLazSW"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "433",
         "Screen_name": "gerermescomptes",
         "Nb_follow": "75",
@@ -2407,14 +2407,14 @@
         "name": "G_rer mes comptes",
         "Nb_followers": "331",
         "url": "http://www.iswigo.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/gerermescomptes.png",
         "Description_Tw": "G\u2019\u00a9rez votre argent, c'est simple et rapide. Service en ligne  #EntrepriseFran\u2019_aise #budget #patrimoine #\u2019\u00a9pargne",
         "Url_Tw": "http://t.co/155v3AAPO5"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "1128",
         "Screen_name": "Greenbureaufr",
         "Nb_follow": "307",
@@ -2442,14 +2442,14 @@
         "name": "Greenbureau",
         "Nb_followers": "406",
         "url": "https://greenbureau.fr/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/greenbureau.jpeg",
         "Description_Tw": "#Startup proposant le 1er #service #web gratuit et s\u2019\u00a9curis\u2019\u00a9 de centralisation de factures contribuant \u2019\u00be la #pr\u2019\u00a9servation de l'#environnement",
         "Url_Tw": "https://t.co/GjjYqqCs2H"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "302",
         "Screen_name": "Handlerz",
         "Nb_follow": "920",
@@ -2477,14 +2477,14 @@
         "name": "Handlerz",
         "Nb_followers": "1113",
         "url": "http://www.handlerz.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/handlerz.png",
         "Description_Tw": "Ce dont vous avez besoin, quand vous en avez besoin gr\u2019\u00a2ce \u2019\u00be l'#application Handlerz. La #communaut\u2019\u00a9 d\u0160\u2014\u00c8#entraide.",
         "Url_Tw": "http://t.co/gyYJbaFv"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "23",
         "Screen_name": "Hedolist",
         "Nb_follow": "25",
@@ -2512,14 +2512,14 @@
         "name": "Hedolist",
         "Nb_followers": "29",
         "url": "http://www.hedolist.com/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/hedolist.png",
         "Description_Tw": "Make the Most of Your Life",
         "Url_Tw": "http://t.co/2GPGGqsIUz"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "513",
         "Screen_name": "HomeBubble",
         "Nb_follow": "622",
@@ -2547,14 +2547,14 @@
         "name": "Home Bubble",
         "Nb_followers": "352",
         "url": "http://www.home-bubble.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/home-bubble.jpg",
         "Description_Tw": "HomeBubble le #cloud du foyer. Plate-forme web/mobile pour g\u2019\u00a9rer son administratif personnel. Archivage en ligne et gestion du foyer #VRM #bureau_num\u2019\u00a9rique",
         "Url_Tw": "http://t.co/TxSkoNNJ28"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "1740",
         "Screen_name": "Home_n_Go",
         "Nb_follow": "261",
@@ -2582,14 +2582,14 @@
         "name": "Homengo",
         "Nb_followers": "991",
         "url": "http://www.homengo.com",
-        "partnerType": "BUSINESS",
+        "category": "BUSINESS",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/homengo.png",
         "Description_Tw": "Permet aux particuliers d'organiser leur recherche de logement simplement. #opendata #immobilier",
         "Url_Tw": "http://t.co/iSTgbBElCe"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "2460",
         "Screen_name": "hopwork",
         "Nb_follow": "1480",
@@ -2617,14 +2617,14 @@
         "name": "Hopwork",
         "Nb_followers": "1505",
         "url": "http://www.hopwork.com",
-        "partnerType": "EMPLOI",
+        "category": "EMPLOI",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/hopwork.jpg",
         "Description_Tw": "Hopwork, pour trouver les meilleurs freelances.",
         "Url_Tw": "http://t.co/dLU1453JVt"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "6",
         "Screen_name": "idispoassistant",
         "Nb_follow": "13",
@@ -2652,14 +2652,14 @@
         "name": "I-Dispo",
         "Nb_followers": "16",
         "url": "http://sara.i-dispo.com/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/idispo.JPG",
         "Description_Tw": "I am Sara, your virtual personal assistant, available to make everyday easier. To get in touch with me, just mention me in your tweets!",
         "Url_Tw": "http://t.co/kO8pMSpxrQ"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "1054",
         "Screen_name": "IKO_System",
         "Nb_follow": "2012",
@@ -2687,14 +2687,14 @@
         "name": "IKO system",
         "Nb_followers": "2058",
         "url": "http://iko-system.com/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/ikosystem.png",
         "Description_Tw": "Our mission is to make sales jobs both fun and efficient. IKO is a sales and marketing intelligence software.",
         "Url_Tw": "http://t.co/9E7SSoLPZv"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "",
         "Screen_name": "",
         "Nb_follow": "",
@@ -2722,14 +2722,14 @@
         "name": "Illimeet",
         "Nb_followers": "",
         "url": "http://www.illimeet.com",
-        "partnerType": "SOCIAL",
+        "category": "SOCIAL",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/Illimeet.png",
         "Description_Tw": "",
         "Url_Tw": ""
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "1136",
         "Screen_name": "infinitdotio",
         "Nb_follow": "421",
@@ -2757,14 +2757,14 @@
         "name": "Infinit",
         "Nb_followers": "1071",
         "url": "http://www.infinit.io",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/Mathon1.jpg",
         "Description_Tw": "Infinit is a fast, elegant and unlimited file transfer application (Mac & Windows).",
         "Url_Tw": "http://t.co/1BWSg3Z5JI"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "94",
         "Screen_name": "JaiPasEnvie",
         "Nb_follow": "3",
@@ -2792,14 +2792,14 @@
         "name": "J'ai pas envie",
         "Nb_followers": "467",
         "url": "http://landing.jaipasenvie.com/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/jaipasenvie.png",
         "Description_Tw": "VOUS AVEZ LE DROIT DE NE PAS AVOIR ENVIE",
         "Url_Tw": "http://t.co/cRmoEO5OTS"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "1867",
         "Screen_name": "JimmyFairly",
         "Nb_follow": "206",
@@ -2827,14 +2827,14 @@
         "name": "Jimmy Fairly",
         "Nb_followers": "1702",
         "url": "http://www.jimmyfairly.com/",
-        "partnerType": "ECOMMERCE",
+        "category": "ECOMMERCE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/jimmyfairly.jpeg",
         "Description_Tw": "We do eyewear.",
         "Url_Tw": "http://t.co/2dXct2leJe"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "3620",
         "Screen_name": "jolicloud",
         "Nb_follow": "63",
@@ -2862,14 +2862,14 @@
         "name": "Jolicloud",
         "Nb_followers": "24942",
         "url": "http://www.jolicloud.com/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/jolicloud.png",
         "Description_Tw": "Jolicloud is the new computing platform built around your life in the cloud. Jolicloud is the home for your most precious content.",
         "Url_Tw": "http://t.co/8sG8KDHB6F"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "441",
         "Screen_name": "justacote",
         "Nb_follow": "27",
@@ -2897,14 +2897,14 @@
         "name": "Justacot\u0090",
         "Nb_followers": "166",
         "url": "http://www.justacote.com/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/justacote.jpeg",
         "Description_Tw": "Justacot\u2019\u00a9 est le guide des bonnes adresses en France",
         "Url_Tw": "http://t.co/DfmPeYBgxz"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "22292",
         "Screen_name": "justunfollow",
         "Nb_follow": "239416",
@@ -2932,14 +2932,14 @@
         "name": "JustUnfollow",
         "Nb_followers": "1220382",
         "url": "http://www.justunfollow.com/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/justunfollow.png",
         "Description_Tw": "Grow your Twitter & Instagram network - Web, Android, iOS & HootSuite app. Find followers, unfollowers, inactive users & more. 6+ Mn Users.",
         "Url_Tw": "http://t.co/2pi7TbkWiq"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "544",
         "Screen_name": "madebykawet",
         "Nb_follow": "17",
@@ -2967,14 +2967,14 @@
         "name": "Kawet",
         "Nb_followers": "548",
         "url": "http://madebykawet.com/",
-        "partnerType": "BUSINESS",
+        "category": "BUSINESS",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/kawet.jpeg",
         "Description_Tw": "All-in-one solution to create & manage native apps for your enterprise.",
         "Url_Tw": "http://t.co/6aj0E1kuqi"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "34",
         "Screen_name": "kontestapp_en",
         "Nb_follow": "27",
@@ -3002,14 +3002,14 @@
         "name": "Kontest",
         "Nb_followers": "23",
         "url": "http://www.kontestapp.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/kontestapp.png",
         "Description_Tw": "Build awesome contest and promotion apps for Facebook, web and mobile! \u00ce\u00e0 http://t.co/W3OmxSqJIk",
         "Url_Tw": "http://t.co/W3OmxSqJIk"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "400",
         "Screen_name": "yeswekoom",
         "Nb_follow": "173",
@@ -3037,14 +3037,14 @@
         "name": "Koom",
         "Nb_followers": "197",
         "url": "http://www.koom.org",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/Koom.jpg",
         "Description_Tw": "Site communautaire pour faire bouger la soci\u2019\u00a9t\u2019\u00a9 par des d\u2019\u00a9fis d\u2019\u00a9veloppement durable. Vous n'\u2019\u00e9tes pas seuls \u2019\u00be agir, vos voisins agissent d\u2019\u00a9j\u2019\u00be ! #DD",
         "Url_Tw": "http://t.co/BYjbAZJEJf"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "2132",
         "Screen_name": "ruchequiditoui",
         "Nb_follow": "789",
@@ -3072,14 +3072,14 @@
         "name": "La ruche qui dit oui",
         "Nb_followers": "6999",
         "url": "http://www.laruchequiditoui.fr/",
-        "partnerType": "ECOMMERCE",
+        "category": "ECOMMERCE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/laruchequiditoui.jpg",
         "Description_Tw": "R\u2019\u00a9seau de communaut\u2019\u00a9s d'achat direct aux producteurs locaux. #Alimentation #Locavore #CircuitCourt #ConsoCollab #ESS #Agriculture",
         "Url_Tw": "http://t.co/lQG0uh5Rpm"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "10358",
         "Screen_name": "latelier",
         "Nb_follow": "1302",
@@ -3104,17 +3104,17 @@
         "emails": "['webmaster@mail.atelier.net']",
         "phones": "['+33 158168499']",
         "certifications": "[]",
-        "name": "L'Atelier",
+        "name": "LAtelier",
         "Nb_followers": "17071",
         "url": "http://www.atelier.net/",
-        "partnerType": "BUSINESS",
+        "category": "BUSINESS",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/latelier.png",
         "Description_Tw": "L'Atelier, technology & innovation tracking unit of @BNPParibas_com, helps companies to catch these ideas early on. Media\u0160\u2014\u00a2Events\u0160\u2014\u00a2Strategic ICT Consulting\u0160\u2014\u00a2Lab",
         "Url_Tw": "http://t.co/FD7Ur1oVeS"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "457",
         "Screen_name": "LeCab",
         "Nb_follow": "959",
@@ -3142,14 +3142,14 @@
         "name": "LeCab.fr",
         "Nb_followers": "10503",
         "url": "http://www.lecab.fr",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/lecab.png",
         "Description_Tw": "Laissez-vous transporter par LeCab! Commandez votre voiture avec chauffeur depuis l'appli (iPhone & Android), sur internet ou par t\u2019\u00a9l\u2019\u00a9phone",
         "Url_Tw": "http://t.co/3hcB1pQ0je"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "",
         "Screen_name": "",
         "Nb_follow": "",
@@ -3177,14 +3177,14 @@
         "name": "Leeaarn",
         "Nb_followers": "",
         "url": "http://www.leeaarn.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/leeaarn.jpg",
         "Description_Tw": "",
         "Url_Tw": ""
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "3032",
         "Screen_name": "lekiosk_fr",
         "Nb_follow": "1515",
@@ -3212,14 +3212,14 @@
         "name": "lekiosk",
         "Nb_followers": "1913",
         "url": "http://www.lekiosk.com/index.html",
-        "partnerType": "MEDIA",
+        "category": "MEDIA",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/lekiosk.png",
         "Description_Tw": "La plus belle exp\u2019\u00a9rience de d\u2019\u00a9couverte et de lecture de magazines. D\u2019\u00a9couvrez la meilleure application pour acc\u2019\u00a9der \u2019\u00be vos magazines en quelques secondes.",
         "Url_Tw": "https://t.co/ehIcMReJrc"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "79",
         "Screen_name": "Lepotcommun",
         "Nb_follow": "0",
@@ -3247,14 +3247,14 @@
         "name": "Lepotcommun",
         "Nb_followers": "40",
         "url": "http://www.lepotcommun.fr",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/Lepotcommun.png",
         "Description_Tw": "Avec Le Pot Commun.fr Simplifiez vos d\u2019\u00a9penses \u2019\u00be plusieurs! Id\u2019\u00a9al pour vos anniversaires, soir\u2019\u00a9es, vacances, EVG, colocations...",
         "Url_Tw": "http://t.co/rLi9b4lpXU"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "95",
         "Screen_name": "LesInitiesFR",
         "Nb_follow": "82",
@@ -3282,14 +3282,14 @@
         "name": "Lesinities",
         "Nb_followers": "257",
         "url": "http://www.theinsiders.eu/v2/site/home/welkom/4/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/lesinities.jpg",
         "Description_Tw": "Vous souhaitez d\u2019\u00a9couvrir gratuitement de nouveaux produits et partager votre exp\u2019\u00a9rience? \nConnectez-vous au plus grand r\u2019\u00a9seau marketing de bouche \u2019\u00be oreille!",
         "Url_Tw": "http://t.co/96e66UcdJz"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "1119",
         "Screen_name": "lesParrains",
         "Nb_follow": "113",
@@ -3317,14 +3317,14 @@
         "name": "lesParrains",
         "Nb_followers": "413",
         "url": "http://www.lesparrains.fr",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/lesparrains.jpg",
         "Description_Tw": "Rejoignez la famille lesParrains.fr sur Twitter : tenez-vous inform\u2019\u00a9 des nouvelles offres de parrainage en France, et trouvez un parrain en 2 secondes !",
         "Url_Tw": "http://t.co/C77CMJuUGS"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "1364",
         "Screen_name": "Libertrip",
         "Nb_follow": "708",
@@ -3352,14 +3352,14 @@
         "name": "Libertrip",
         "Nb_followers": "827",
         "url": "http://www.libertrip.com/en",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/libertrip.png",
         "Description_Tw": "Trip planning as easy and fun as the trip itself.",
         "Url_Tw": "http://t.co/ZKN6UiyJ9T"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "3700",
         "Screen_name": "LilyListe",
         "Nb_follow": "701",
@@ -3387,14 +3387,14 @@
         "name": "Lily Liste",
         "Nb_followers": "1072",
         "url": "http://www.lily-liste.com/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/lily-liste.png",
         "Description_Tw": "Lily Liste, la seule liste de cadeaux 100% en ligne pour tous vos \u2019\u00a9v\u2019\u00a9nements #mariage #naissance #anniversaire #bapt\u2019\u00e9me...",
         "Url_Tw": "http://t.co/6KnwiDFpaF"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "1030",
         "Screen_name": "linxos",
         "Nb_follow": "184",
@@ -3422,14 +3422,14 @@
         "name": "Linxo",
         "Nb_followers": "1222",
         "url": "http://www.linxo.com/",
-        "partnerType": "BUSINESS",
+        "category": "BUSINESS",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/linxos.png",
         "Description_Tw": "Une nouvelle fa\u2019_on de g\u2019\u00a9rer son budget",
         "Url_Tw": "http://t.co/0JMjgdYBkP"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "10832",
         "Screen_name": "Locita",
         "Nb_follow": "9105",
@@ -3457,14 +3457,14 @@
         "name": "Locita",
         "Nb_followers": "27093",
         "url": "http://www.locita.com",
-        "partnerType": "MEDIA",
+        "category": "MEDIA",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/locita.jpg",
         "Description_Tw": "L'info \u2019\u00be partager !\nStyle, Digital, Soci\u2019\u00a9t\u2019\u00a9, Cultures, Buzz.\n(Retrouvez-nous aussi sur Facebook http://t.co/7BqxIwM6HR)",
         "Url_Tw": "http://t.co/F3RV64UEAo"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "2622",
         "Screen_name": "LooknBe_France",
         "Nb_follow": "1336",
@@ -3492,14 +3492,14 @@
         "name": "Look'n'Be",
         "Nb_followers": "1022",
         "url": "http://www.looknbe.com/",
-        "partnerType": "MEDIA",
+        "category": "MEDIA",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/looknbe.png",
         "Description_Tw": "1er r\u2019\u00a9seau social du look et du style. Posez votre question \u2019\u00be la communaut\u2019\u00a9 qui vous r\u2019\u00a9ponds en live.",
         "Url_Tw": "http://t.co/AJ711a1Ocn"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "",
         "Screen_name": "",
         "Nb_follow": "",
@@ -3527,14 +3527,14 @@
         "name": "Mediavox",
         "Nb_followers": "",
         "url": "http://www.mediavox.fr",
-        "partnerType": "MEDIA",
+        "category": "MEDIA",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/Mediavox.jpg",
         "Description_Tw": "",
         "Url_Tw": ""
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "70",
         "Screen_name": "meetcrunch",
         "Nb_follow": "650",
@@ -3562,14 +3562,14 @@
         "name": "Meetcrunch",
         "Nb_followers": "586",
         "url": "http://www.meetcrunch.com/",
-        "partnerType": "SOCIAL",
+        "category": "SOCIAL",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/meetcrunch.png",
         "Description_Tw": "Appli de rencontres innovante, uniquement sur iPhone, iPad, Android et web. #OpenDating #BigDating #QuantifiedSeduction",
         "Url_Tw": "http://t.co/1zI5aNt0r0"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "5528",
         "Screen_name": "mention",
         "Nb_follow": "1331",
@@ -3597,14 +3597,14 @@
         "name": "mention",
         "Nb_followers": "10835",
         "url": "https://fr.mention.net/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/mention.jpg",
         "Description_Tw": "What came first? The #hashtag or the @mention? No matter what we monitor them all plus the entire web. Alerts for your name, brand, or competitors in real-time!",
         "Url_Tw": "http://t.co/juUUqDoQnC"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "534",
         "Screen_name": "mercialfred",
         "Nb_follow": "175",
@@ -3632,14 +3632,14 @@
         "name": "Merci Alfred",
         "Nb_followers": "9980",
         "url": "http://www.mercialfred.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/mercialfred.jpg",
         "Description_Tw": "Inscrivez-vous sur http://t.co/YkeuZnvnLu pour recevoir nos adresses parisiennes insolites dans votre bo\u2019\u00c2te mail",
         "Url_Tw": "http://t.co/YkeuZnvnLu"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "1262",
         "Screen_name": "miliboo",
         "Nb_follow": "440",
@@ -3667,14 +3667,14 @@
         "name": "Miliboo",
         "Nb_followers": "580",
         "url": "http://www.miliboo.com/",
-        "partnerType": "ECOMMERCE",
+        "category": "ECOMMERCE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/miliboo.png",
         "Description_Tw": "Vente sur Internet de mobilier pratique et facile \u2019\u00be vivre. Astuces et actus sur http://t.co/HEnQfEVfC7 et http://t.co/ADa9EtQsaY",
         "Url_Tw": "http://t.co/ApaUCf5sBN"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "349",
         "Screen_name": "MobilyTrip",
         "Nb_follow": "128",
@@ -3702,14 +3702,14 @@
         "name": "Mobily Trip",
         "Nb_followers": "550",
         "url": "http://fr.mobilytrip.com/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/mobilitytrip.png",
         "Description_Tw": "Create, store and share your travel journals and your week-ends on the go with your friends and family for free ! \nhttp://t.co/Hf7q2NSBwz",
         "Url_Tw": "https://t.co/JTpr4njK0h"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "2403",
         "Screen_name": "Modizy",
         "Nb_follow": "2588",
@@ -3737,14 +3737,14 @@
         "name": "Modizy",
         "Nb_followers": "3318",
         "url": "http://www.modizy.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/modizy.png",
         "Description_Tw": "Online Personal Shopper",
         "Url_Tw": "http://t.co/grPGBwGXau"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "273",
         "Screen_name": "monsieurtshirt",
         "Nb_follow": "192",
@@ -3772,14 +3772,14 @@
         "name": "Monsieurtshirt",
         "Nb_followers": "429",
         "url": "http://www.monsieurtshirt.com",
-        "partnerType": "ECOMMERCE",
+        "category": "ECOMMERCE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/monsieurtshirt.png",
         "Description_Tw": "1500 t-shirts cools & 70 marques ind\u2019\u00a9pendantes \u2019\u00be d\u2019\u00a9couvrir sur http://t.co/2si78V159u",
         "Url_Tw": "http://t.co/hV7MNhSK8K"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "5184",
         "Screen_name": "moonbarHQ",
         "Nb_follow": "1424",
@@ -3807,14 +3807,14 @@
         "name": "Moonbar.org",
         "Nb_followers": "849",
         "url": "http://moonbar.org/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/moonbar.png",
         "Description_Tw": "The community of #Startupers, #Makers and #Entrepreneurs !\nGreat way to find top startup events, workshops, contests and programs in your city",
         "Url_Tw": "http://t.co/hKkEp6DsRW"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "1092",
         "Screen_name": "Moxity",
         "Nb_follow": "499",
@@ -3842,14 +3842,14 @@
         "name": "Moxity",
         "Nb_followers": "493",
         "url": "http://www.moxity.com/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/MOXITY.jpg",
         "Description_Tw": "Moxity propose aux organisateurs d'\u2019\u00a9v\u2019\u00a9nements d'ouvrir gratuitement une billetterie en ligne et recommande, \u2019\u00be tout le monde, le meilleur des sorties !",
         "Url_Tw": "http://t.co/h7ShZvBEzd"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "",
         "Screen_name": "",
         "Nb_follow": "",
@@ -3877,14 +3877,14 @@
         "name": "My Little Kids",
         "Nb_followers": "",
         "url": "http://www.mylittlekids.fr/",
-        "partnerType": "ECOMMERCE",
+        "category": "ECOMMERCE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/mylittlekids.png",
         "Description_Tw": "",
         "Url_Tw": ""
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "",
         "Screen_name": "",
         "Nb_follow": "",
@@ -3912,14 +3912,14 @@
         "name": "My Little Wedding",
         "Nb_followers": "",
         "url": "http://www.mylittle.fr/mylittlewedding/",
-        "partnerType": "ECOMMERCE",
+        "category": "ECOMMERCE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/mylittlewedding.png",
         "Description_Tw": "",
         "Url_Tw": ""
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "4301",
         "Screen_name": "MyMajorCompany",
         "Nb_follow": "590",
@@ -3947,14 +3947,14 @@
         "name": "My Major Company",
         "Nb_followers": "5727",
         "url": "http://www.mymajorcompany.com/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/mymajorcompany.png",
         "Description_Tw": "Toute l'actualit\u2019\u00a9 de la plateforme en 140 caract\u2019\u00e5res et en avant-premi\u2019\u00e5re. #crowdfunding #projets #initiatives #talents #cr\u2019\u00a9ation ... et tout le reste !",
         "Url_Tw": "http://t.co/9jvDu6zlz4"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "738",
         "Screen_name": "myFrenchStartup",
         "Nb_follow": "1565",
@@ -3982,14 +3982,14 @@
         "name": "MyFrenchStartup",
         "Nb_followers": "1425",
         "url": "http://www.myfrenchstartup.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/myfrenchstartup.jpg",
         "Description_Tw": "The first French #Startup analytic #Database : #Entrepreneurs, #Investors, #Fundraising, #marketsize and much more",
         "Url_Tw": "http://t.co/0vfQlSNCwz"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "21143",
         "Screen_name": "MyJobCompany",
         "Nb_follow": "2742",
@@ -4017,14 +4017,14 @@
         "name": "MyJobCompany",
         "Nb_followers": "4743",
         "url": "http://www.myjobcompany.com/",
-        "partnerType": "EMPLOI",
+        "category": "EMPLOI",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/MyJobCompany.jpg",
         "Description_Tw": "Referral SaaS, referral marketplace, matching algorithm, HR DISRUPTION",
         "Url_Tw": "http://t.co/jCA95oGgg5"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "1",
         "Screen_name": "MyTwinShopper",
         "Nb_follow": "4",
@@ -4052,14 +4052,14 @@
         "name": "Mytwinshopper",
         "Nb_followers": "12",
         "url": "http://www.mytwinshopper.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/Mytwinshopper.jpeg",
         "Description_Tw": "Avec MyTwinShopper, posez \u2019\u00be vos amis et aux experts toutes vos questions shopping.\nN'achetez plus jamais seul !",
         "Url_Tw": "http://t.co/fRgqpr45KZ"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "2196",
         "Screen_name": "Noomiz",
         "Nb_follow": "733",
@@ -4087,14 +4087,14 @@
         "name": "Noomiz",
         "Nb_followers": "4258",
         "url": "http://www.noomiz.com",
-        "partnerType": "MEDIA",
+        "category": "MEDIA",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/noomiz.jpg",
         "Description_Tw": "D\u2019\u00a9couvrez la musique que vous aimerez demain. http://t.co/XNxTglyEmM",
         "Url_Tw": "http://t.co/XNxTglyEmM"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "2442",
         "Screen_name": "oboulo_officiel",
         "Nb_follow": "317",
@@ -4122,14 +4122,14 @@
         "name": "Oboulo.Com",
         "Nb_followers": "501",
         "url": "http://www.oboulo.com/",
-        "partnerType": "BUSINESS",
+        "category": "BUSINESS",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/oboulo.png",
         "Description_Tw": "Oboulo : expos\u2019\u00a9, dissertation, \u2019\u00a9tude de march\u2019\u00a9, fiche de lecture, document, dossier, commentaire d'arr\u2019\u00e9t, contrat, \u2019\u00a9tude de cas, lettre type, article",
         "Url_Tw": "http://t.co/oE6uhrd9Tf"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "247",
         "Screen_name": "oleapark",
         "Nb_follow": "230",
@@ -4157,14 +4157,14 @@
         "name": "OleaPark",
         "Nb_followers": "303",
         "url": "http://oleapark.com/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/oleapark.png",
         "Description_Tw": "OleaPark is your social event badge.",
         "Url_Tw": "http://t.co/QDlqalVr2j"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "69",
         "Screen_name": "Onsedoit",
         "Nb_follow": "49",
@@ -4192,14 +4192,14 @@
         "name": "Onsedoit",
         "Nb_followers": "22",
         "url": "http://www.onsedoit.fr/index.do",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/onsedoit.png",
         "Description_Tw": "Le site web qui permet de faire ses comptes entre amis ou colocataires, simplement et rapidement.",
         "Url_Tw": "http://t.co/zgFKH58XiF"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "274",
         "Screen_name": "Ookoodoo",
         "Nb_follow": "758",
@@ -4227,14 +4227,14 @@
         "name": "Ookoodoo",
         "Nb_followers": "574",
         "url": "http://www.ookoodoo.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/ookoodoo.png",
         "Description_Tw": "Cr\u2019\u00a9ez vos listes de cadeaux avec Ookoodoo pour chaque occasion : naissance, mariage, Noel, anniversaire... M\u2019\u00a9morisez vos envies depuis n'importe quel site",
         "Url_Tw": "http://t.co/0KYtdWOZjz"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "3676",
         "Screen_name": "OpenClassrooms",
         "Nb_follow": "393",
@@ -4262,14 +4262,14 @@
         "name": "OpenClassrooms",
         "Nb_followers": "14287",
         "url": "http://www.openclassrooms.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/openclassrooms.png",
         "Description_Tw": "OpenClassrooms est la premi\u2019\u00e5re plateforme francophone d'e-Education incluant une large dimension\ncommunautaire avec plusieurs millions de visiteurs chaque mois",
         "Url_Tw": "http://t.co/5o2GRt3qkv"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "670",
         "Screen_name": "oscaro",
         "Nb_follow": "214",
@@ -4297,14 +4297,14 @@
         "name": "Oscaro",
         "Nb_followers": "7870",
         "url": "http://www.oscaro.com",
-        "partnerType": "ECOMMERCE",
+        "category": "ECOMMERCE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/email.oscaro.jpg",
         "Description_Tw": "http://t.co/a9qBY4xlIz\nLe N\u00ce\u00e71 des pi\u2019\u00e5ces auto neuves et d'origine sur Internet",
         "Url_Tw": "http://t.co/JUT4rkzNne"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "2802",
         "Screen_name": "OverBlog",
         "Nb_follow": "1917",
@@ -4332,14 +4332,14 @@
         "name": "OverBlog",
         "Nb_followers": "3260",
         "url": "http://www.over-blog.com/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/overblog.png",
         "Description_Tw": "Toute l'actu d'OverBlog, 1\u2019\u00e5re plateforme de blogs en France et portail d'infos http://t.co/Mdg6hGc9nx OverBlog aussi sur Facebook http://t.co/JyXkJzNrh6",
         "Url_Tw": "http://t.co/5x7S1Z2TIW"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "492",
         "Screen_name": "Palo_IT",
         "Nb_follow": "68",
@@ -4367,14 +4367,14 @@
         "name": "Palo IT",
         "Nb_followers": "373",
         "url": "http://www.palo-it.com/",
-        "partnerType": "BUSINESS",
+        "category": "BUSINESS",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/paloit.jpg",
         "Description_Tw": "Communaut\u2019\u00a9 internationale de 120 talents passionn\u2019\u00a9s par #Lean #Agile #Innovation #technologie #architecture #omnicanal",
         "Url_Tw": "http://t.co/PIggkiVicX"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "658",
         "Screen_name": "payplug",
         "Nb_follow": "2315",
@@ -4402,14 +4402,14 @@
         "name": "Payplug",
         "Nb_followers": "2432",
         "url": "http://www.payplug.fr",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/payplug.png",
         "Description_Tw": "Solution de paiement la plus simple pour accepter la CB en ligne\nInscription gratuite, sans engagement, sans abonnement",
         "Url_Tw": "http://t.co/2Qx4mI7wiV"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "1615",
         "Screen_name": "pearltrees",
         "Nb_follow": "11400",
@@ -4437,14 +4437,14 @@
         "name": "Pearltrees",
         "Nb_followers": "18358",
         "url": "http://www.pearltrees.com/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/pearltrees.png",
         "Description_Tw": "Pearltrees is a place for your interests. It lets you organize, explore and share everything you like.",
         "Url_Tw": "http://t.co/CMd6mdbAy9"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "1333",
         "Screen_name": "planmeup",
         "Nb_follow": "453",
@@ -4472,14 +4472,14 @@
         "name": "Plan Me Up",
         "Nb_followers": "782",
         "url": "http://www.planmeup.com/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/planmeup.png",
         "Description_Tw": "D\u2019\u00a9couvrez les \u2019\u00a9v\u2019\u00a9nements qui vous int\u2019\u00a9ressent",
         "Url_Tw": "http://t.co/34dhtAy4KP"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "1762",
         "Screen_name": "polyglotclub",
         "Nb_follow": "3895",
@@ -4507,14 +4507,14 @@
         "name": "Polyglot Club",
         "Nb_followers": "5230",
         "url": "http://polyglotclub.com/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/polyglotclub.jpg",
         "Description_Tw": "Practice ALL Languages and Make Friends! Events every\u00ce\u00benights in Paris (an average of 200 participants) and the rest of the world :-)",
         "Url_Tw": "http://t.co/cymLMOTeY6"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "5982",
         "Screen_name": "PrestaShop",
         "Nb_follow": "575",
@@ -4542,14 +4542,14 @@
         "name": "Prestashop",
         "Nb_followers": "16647",
         "url": "http://www.prestashop.com/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/prestashop.png",
         "Description_Tw": "PrestaShop is a free ecommerce solution powering over 185,000 online stores. We tweet and live for online retail, Open source, free software and Rock'n'Roll.",
         "Url_Tw": "http://t.co/ZH6ht3hFmy"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "355",
         "Screen_name": "Privowny",
         "Nb_follow": "211",
@@ -4577,14 +4577,14 @@
         "name": "Privowny",
         "Nb_followers": "100",
         "url": "http://www.privowny.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/My.Privowny.jpg",
         "Description_Tw": "Plug-in to control Cookies and Spam, manage all your Passwords and Auto-Login with state of the art encryption, and secure all data you leave on websites.",
         "Url_Tw": "http://t.co/XK5aS1dDCH"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "4274",
         "Screen_name": "ProgOnline",
         "Nb_follow": "259",
@@ -4612,14 +4612,14 @@
         "name": "Progonline",
         "Nb_followers": "304",
         "url": "http://www.progonline.com/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/progonline.PNG",
         "Description_Tw": "Plateforme Internet leader pour vos projets (informatique, graphismes, gestion de contenu)",
         "Url_Tw": "http://t.co/ubm7EgEEEJ"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "1601",
         "Screen_name": "QapaNews",
         "Nb_follow": "235",
@@ -4647,14 +4647,14 @@
         "name": "QAPA",
         "Nb_followers": "1740",
         "url": "http://www.qapa.fr/",
-        "partnerType": "EMPLOI",
+        "category": "EMPLOI",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/Quapa.png",
         "Description_Tw": "Le site qui met en relation le bon candidat avec le bon recruteur en temps r\u2019\u00a9el. http://t.co/iU2nvrNcKF & http://t.co/ryKp0qBEsE",
         "Url_Tw": "http://t.co/3zOumq6PDC"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "1601",
         "Screen_name": "QapaNews",
         "Nb_follow": "235",
@@ -4682,14 +4682,14 @@
         "name": "QAPA",
         "Nb_followers": "1740",
         "url": "http://www.qapa.fr/",
-        "partnerType": "EMPLOI",
+        "category": "EMPLOI",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/Quapa.png",
         "Description_Tw": "Le site qui met en relation le bon candidat avec le bon recruteur en temps r\u2019\u00a9el. http://t.co/iU2nvrNcKF & http://t.co/ryKp0qBEsE",
         "Url_Tw": "http://t.co/3zOumq6PDC"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "1291",
         "Screen_name": "qunb",
         "Nb_follow": "352",
@@ -4717,14 +4717,14 @@
         "name": "Qunb",
         "Nb_followers": "1079",
         "url": "http://www.qunb.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/qunb.jpeg",
         "Description_Tw": "Putting #datavisualisation to good use for everyone. Try out our new google analytics datastory!",
         "Url_Tw": "http://t.co/FAjJi2u2Jg"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "",
         "Screen_name": "",
         "Nb_follow": "",
@@ -4752,14 +4752,14 @@
         "name": "Raaad",
         "Nb_followers": "",
         "url": "http://www.raaad.fr",
-        "partnerType": "ECOMMERCE",
+        "category": "ECOMMERCE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/Raaad.jpg",
         "Description_Tw": "",
         "Url_Tw": ""
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "24645",
         "Screen_name": "remixjobs",
         "Nb_follow": "175",
@@ -4787,14 +4787,14 @@
         "name": "Remixjobs",
         "Nb_followers": "11291",
         "url": "http://remixjobs.com/",
-        "partnerType": "EMPLOI",
+        "category": "EMPLOI",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/remixjobs.jpg",
         "Description_Tw": "Remixjobs est le site d'offres d'emploi web et informatique de r\u2019\u00a9f\u2019\u00a9rence des startups et grandes soci\u2019\u00a9t\u2019\u00a9s.",
         "Url_Tw": "http://t.co/WY7y6rz5GQ"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "24645",
         "Screen_name": "remixjobs",
         "Nb_follow": "175",
@@ -4822,14 +4822,14 @@
         "name": "Remixjobs",
         "Nb_followers": "11291",
         "url": "http://remixjobs.com/",
-        "partnerType": "EMPLOI",
+        "category": "EMPLOI",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/remixjobs.jpg",
         "Description_Tw": "Remixjobs est le site d'offres d'emploi web et informatique de r\u2019\u00a9f\u2019\u00a9rence des startups et grandes soci\u2019\u00a9t\u2019\u00a9s.",
         "Url_Tw": "http://t.co/WY7y6rz5GQ"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "365",
         "Screen_name": "reservoirfunds",
         "Nb_follow": "1045",
@@ -4857,14 +4857,14 @@
         "name": "Reservoir Funds",
         "Nb_followers": "741",
         "url": "http://www.reservoirfunds.com/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/reservoirfunds.PNG",
         "Description_Tw": "ReservoirFunds - Service de financement participatif contre r\u2019\u00a9compense pour soutenir l'entrepreneuriat \n#crowdfunding #financementparticipatif #entrepreneur",
         "Url_Tw": "http://t.co/RpWK5b7UJM"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "3323",
         "Screen_name": "sampleo",
         "Nb_follow": "1406",
@@ -4892,14 +4892,14 @@
         "name": "Sampleo",
         "Nb_followers": "1810",
         "url": "http://www.sampleo.com/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/sampleo.png",
         "Description_Tw": "Suivez l'actualit\u2019\u00a9 #marketing #Publicite #ReseauxSociaux et #ereputation par le leader du Tryvertising CC @R_Demnard",
         "Url_Tw": "http://t.co/VJMt3MNhKo"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "5647",
         "Screen_name": "scoopit",
         "Nb_follow": "1152",
@@ -4927,14 +4927,14 @@
         "name": "Scoop.it",
         "Nb_followers": "73030",
         "url": "http://www.scoop.it/",
-        "partnerType": "MEDIA",
+        "category": "MEDIA",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/scoopit.png",
         "Description_Tw": "Supercharge your content marketing. | Share information within your org. | #curatethecurators | #leancontent | Tweets by @allygreer | @ScoopitSupport for issues",
         "Url_Tw": "http://t.co/sXZF8M1q0F"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "7513",
         "Screen_name": "SensCritique",
         "Nb_follow": "0",
@@ -4962,14 +4962,14 @@
         "name": "SensCritique",
         "Nb_followers": "11119",
         "url": "http://www.senscritique.com/",
-        "partnerType": "MEDIA",
+        "category": "MEDIA",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/senscritique.png",
         "Description_Tw": "Nous croyons \u2019\u00be la puissance du bouche \u2019\u00be oreille pour faire d\u2019\u00a9couvrir films, s\u2019\u00a9ries, livres, BD, jeux vid\u2019\u00a9o et musique.\nhttp://t.co/uxWNwEpjIb",
         "Url_Tw": "http://t.co/dizi0szW27"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "",
         "Screen_name": "",
         "Nb_follow": "",
@@ -4997,14 +4997,14 @@
         "name": "Sharewizz",
         "Nb_followers": "",
         "url": "http://www.sharewizz.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/sharewizz.jpg",
         "Description_Tw": "",
         "Url_Tw": ""
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "1105",
         "Screen_name": "sharypic",
         "Nb_follow": "1277",
@@ -5032,14 +5032,14 @@
         "name": "Sharypic",
         "Nb_followers": "1199",
         "url": "http://www.sharypic.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/sharypic.jpg",
         "Description_Tw": "Collaborative & interactive photo sharing platform for all your public or private events. Live collect, display, stream & print photos. #Eventprofs #EventTech",
         "Url_Tw": "https://t.co/nYJf7DvZKX"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "1339",
         "Screen_name": "Shopmium",
         "Nb_follow": "304",
@@ -5067,14 +5067,14 @@
         "name": "Shopmium",
         "Nb_followers": "802",
         "url": "http://www.shopmium.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/shopmium.png",
         "Description_Tw": "Buy, take a picture, get cash back!",
         "Url_Tw": "http://t.co/Ffdk616XBq"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "200",
         "Screen_name": "skerou",
         "Nb_follow": "156",
@@ -5102,14 +5102,14 @@
         "name": "Skerou",
         "Nb_followers": "235",
         "url": "http://www.skerou.com/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/skerou.png",
         "Description_Tw": "Je suis une appli mobile gratuite pour pr\u2019\u00a9parer vos courses et b\u2019\u00a9n\u2019\u00a9ficier de promotions exclusives, gr\u2019\u00a2ce \u2019\u00be l'analyse de votre ticket de caisse de supermarch\u2019\u00a9.",
         "Url_Tw": "http://t.co/A0DL085GMD"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "",
         "Screen_name": "",
         "Nb_follow": "",
@@ -5137,14 +5137,14 @@
         "name": "Skimm",
         "Nb_followers": "",
         "url": "http://www.skimm.fr",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/skimm.png",
         "Description_Tw": "",
         "Url_Tw": ""
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "23",
         "Screen_name": "snapcar",
         "Nb_follow": "14",
@@ -5172,14 +5172,14 @@
         "name": "Snapcar",
         "Nb_followers": "137",
         "url": "http://www.snapcar.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/snapcar.jpg",
         "Description_Tw": "Trouvez-nous sur Twitter: @SnapCarParis",
         "Url_Tw": "http://t.co/SZahD1bNHT"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "2775",
         "Screen_name": "soon_x3",
         "Nb_follow": "264",
@@ -5207,14 +5207,14 @@
         "name": "Soon Soon Soon",
         "Nb_followers": "3960",
         "url": "http://www.soonsoonsoon.com",
-        "partnerType": "MEDIA",
+        "category": "MEDIA",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/Soon Soon Soon.jpeg",
         "Description_Tw": "Trends, lifestyle, innovation, design, creativity: get tomorrow now! / Tendances, styles de vie, innovation, design, cr\u2019\u00a9ativit\u2019\u00a9: Testez le futur d\u2019\u00e5s maintenant!",
         "Url_Tw": "http://t.co/xDkU9GZXGb"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "",
         "Screen_name": "",
         "Nb_follow": "",
@@ -5242,14 +5242,14 @@
         "name": "SoonNight",
         "Nb_followers": "",
         "url": "http://www.soonnight.com/",
-        "partnerType": "MEDIA",
+        "category": "MEDIA",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/soonnight.png",
         "Description_Tw": "",
         "Url_Tw": ""
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "1918",
         "Screen_name": "iconosquare",
         "Nb_follow": "39",
@@ -5277,14 +5277,14 @@
         "name": "Statigram",
         "Nb_followers": "45324",
         "url": "http://www.statigr.am",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/statigr.jpg",
         "Description_Tw": "Formerly Statigram - 8M members!\nBest Analytics and Marketing Suite for Instagram\n- terrific statistics\n- photo contest toolkit\n- available on HootSuite",
         "Url_Tw": "http://t.co/fabZ32Tc9b"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "664",
         "Screen_name": "stootie",
         "Nb_follow": "1521",
@@ -5312,14 +5312,14 @@
         "name": "Stootie",
         "Nb_followers": "677",
         "url": "http://www.stootie.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/stootie.png",
         "Description_Tw": "Stootie, l'application mobile\npour se rendre service !",
         "Url_Tw": "http://t.co/gvouqNQXx6"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "249",
         "Screen_name": "stormzplatform",
         "Nb_follow": "53",
@@ -5347,14 +5347,14 @@
         "name": "Stormz",
         "Nb_followers": "215",
         "url": "http://www.stormz.me",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/stormz.jpg",
         "Description_Tw": "By combining methodology and technology, Stormz facilitates collaborative workshops that energize your events and engage your teams.",
         "Url_Tw": "http://t.co/8Dj4ejZcLI"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "449",
         "Screen_name": "sushio",
         "Nb_follow": "763",
@@ -5382,14 +5382,14 @@
         "name": "Sush.io",
         "Nb_followers": "680",
         "url": "http://www.sush.io",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/sushio.png",
         "Description_Tw": "Raw data made fresh! A tailored experience for you, today's entrepreneurs.",
         "Url_Tw": "http://t.co/O0aikF7FFx"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "511",
         "Screen_name": "TalentZapping",
         "Nb_follow": "2254",
@@ -5417,14 +5417,14 @@
         "name": "TalentZapping",
         "Nb_followers": "2026",
         "url": "http://www.talentzapping.com/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/talentzapping.png",
         "Description_Tw": "Le site de d\u2019\u00a9couverte et de promotion de tous les Talents !",
         "Url_Tw": "http://t.co/NFM0Ne0MQ3"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "1409",
         "Screen_name": "testapic",
         "Nb_follow": "326",
@@ -5452,14 +5452,14 @@
         "name": "Testapic",
         "Nb_followers": "539",
         "url": "http://www.testapic.com/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/testapic.jpg",
         "Description_Tw": "Test d'#utilisabilit\u2019\u00a9 par des utilisateurs r\u2019\u00a9mun\u2019\u00a9r\u2019\u00a9s pour tester et am\u2019\u00a9liorer l'#ergonomie de son site Internet et ses supports web.",
         "Url_Tw": "http://t.co/MNtyU54pb9"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "608",
         "Screen_name": "textmaster",
         "Nb_follow": "274",
@@ -5487,14 +5487,14 @@
         "name": "TextMaster",
         "Nb_followers": "814",
         "url": "http://www.textmaster.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/textmaster.png",
         "Description_Tw": "Your partner for professional translation, copywriting and proofreading services by native speakers across the globe. #contentmarketing #translation #SEO",
         "Url_Tw": "http://t.co/NCr9juXEvl"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "1292",
         "Screen_name": "TheTops_fr",
         "Nb_follow": "372",
@@ -5522,14 +5522,14 @@
         "name": "Thetops",
         "Nb_followers": "570",
         "url": "http://www.thetops.fr",
-        "partnerType": "ECOMMERCE",
+        "category": "ECOMMERCE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/my.thetops.png",
         "Description_Tw": "TheTops rend le quotidien design pour tous !",
         "Url_Tw": "http://t.co/nu5Aw8oCSz"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "",
         "Screen_name": "",
         "Nb_follow": "",
@@ -5557,14 +5557,14 @@
         "name": "trombi.com",
         "Nb_followers": "",
         "url": "http://www.trombi.com/",
-        "partnerType": "SOCIAL",
+        "category": "SOCIAL",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/trombi.com.png",
         "Description_Tw": "",
         "Url_Tw": ""
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "7785",
         "Screen_name": "tutofr",
         "Nb_follow": "1555",
@@ -5592,14 +5592,14 @@
         "name": "TUTO.com",
         "Nb_followers": "4002",
         "url": "http://fr.tuto.com/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/tutocom.jpg",
         "Description_Tw": "+ de 32.000 tuto en vid\u2019\u00a9o s\u2019\u00a9lectionn\u2019\u00a9s avec amour et \u2019\u00be la main, par une \u2019\u00a9quipe sympa comme tout ! #formation #photoshop #DigitalLearning #adobe #programmation",
         "Url_Tw": "http://t.co/Uohf6pc9Xk"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "12996",
         "Screen_name": "ululeFR",
         "Nb_follow": "2138",
@@ -5627,14 +5627,14 @@
         "name": "ulule",
         "Nb_followers": "15639",
         "url": "http://fr.ulule.com/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/ulule.jpg",
         "Description_Tw": "Donnez vie aux bonnes id\u2019\u00a9es ! Premi\u2019\u00e5re plateforme de #crowdfunding en Europe. Anglais (@ulule), Fran\u2019_ais, Espagnol, Allemand, Italien, Portugais.",
         "Url_Tw": "http://t.co/DhvYme1sfr"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "1092",
         "Screen_name": "Jon_UrbanLinker",
         "Nb_follow": "1955",
@@ -5662,14 +5662,14 @@
         "name": "Urban Linker",
         "Nb_followers": "2892",
         "url": "http://www.urbanlinker.com/",
-        "partnerType": "EMPLOI",
+        "category": "EMPLOI",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/taxibeat1.jpg",
         "Description_Tw": "Fondateur d'Urban Linker, accompagnement de Startups en croissance, recrutement et chasse de t\u2019\u00e9te sp\u2019\u00a9cialiste web.",
         "Url_Tw": "http://t.co/9UB9IXEp0t"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "1605",
         "Screen_name": "Valutao",
         "Nb_follow": "473",
@@ -5697,14 +5697,14 @@
         "name": "Valutao",
         "Nb_followers": "185",
         "url": "http://www.valutao.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/Valutao.jpg",
         "Description_Tw": "Valutao, facilitateur de lev\u2019\u00a9es de fonds et de transmissions d'entreprises !",
         "Url_Tw": "http://t.co/7vfGBP8Q64"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "2593",
         "Screen_name": "VestiaireCo_FR",
         "Nb_follow": "813",
@@ -5732,14 +5732,14 @@
         "name": "Vestiaire collective",
         "Nb_followers": "1889",
         "url": "http://fr.vestiairecollective.com/",
-        "partnerType": "ECOMMERCE",
+        "category": "ECOMMERCE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/notifs.vestiairecollective.jpg",
         "Description_Tw": "Site de #Ecommerce communautaire d\u2019\u00a9di\u2019\u00a9 \u2019\u00be la #Mode. Une s\u2019\u00a9lection experte, un contr\u2019\u201ale exigeant, une #communaut\u2019\u00a9 internationale qui vit le social #shopping !",
         "Url_Tw": "http://t.co/UmPQrwFNo8"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "816",
         "Screen_name": "Viatao",
         "Nb_follow": "1077",
@@ -5767,14 +5767,14 @@
         "name": "Viatao.com",
         "Nb_followers": "726",
         "url": "http://viatao.com/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/viatao.png",
         "Description_Tw": "Guides pour voyager autrement, durable et insolite #voyage #tourismedurable #argentine #thailande #bali #montreal #paris #bretagne #p\u2019\u00a9rou",
         "Url_Tw": "http://t.co/vzkkIg7ail"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "12591",
         "Screen_name": "Videdressing",
         "Nb_follow": "1268",
@@ -5802,14 +5802,14 @@
         "name": "Videdressing",
         "Nb_followers": "2644",
         "url": "http://www.videdressing.com/",
-        "partnerType": "ECOMMERCE",
+        "category": "ECOMMERCE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/videdressing.jpg",
         "Description_Tw": "Rejoignez notre communaut\u2019\u00a9 internationale de passionn\u2019\u00a9s de mode pour vendre et acheter vos tr\u2019\u00a9sors !",
         "Url_Tw": "http://t.co/TLDTfeuDEs"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "27123",
         "Screen_name": "VoxForte",
         "Nb_follow": "7554",
@@ -5837,14 +5837,14 @@
         "name": "VoxForte",
         "Nb_followers": "11031",
         "url": "http://www.voxforte.com/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/VoxForte.jpg",
         "Description_Tw": "Service gratuit de sourcing pour journalistes.",
         "Url_Tw": "http://t.co/7LL3fxpQSf"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "1318",
         "Screen_name": "wecook_fr",
         "Nb_follow": "238",
@@ -5872,14 +5872,14 @@
         "name": "WeCook",
         "Nb_followers": "813",
         "url": "http://www.wecook.fr/fr/",
-        "partnerType": "ECOMMERCE",
+        "category": "ECOMMERCE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/wecook.png",
         "Description_Tw": "WeCook.fr vous propose des id\u2019\u00a9es de repas et de courses personnalis\u2019\u00a9es pour la semaine.",
         "Url_Tw": "http://t.co/igqUwzR4Yj"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "1655",
         "Screen_name": "weezevent",
         "Nb_follow": "122",
@@ -5907,14 +5907,14 @@
         "name": "Weezevent",
         "Nb_followers": "994",
         "url": "http://www.weezevent.com/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/weezevent.png",
         "Description_Tw": "Nous aidons + de 31 000 organisateurs d'\u2019\u00a9v\u2019\u00a9nements avec une solution innovante de billetterie, d'inscription et d'invitation en ligne. Et vous ?",
         "Url_Tw": "http://t.co/KWLZcoiXG2"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "799",
         "Screen_name": "weezic",
         "Nb_follow": "916",
@@ -5942,14 +5942,14 @@
         "name": "Weezic",
         "Nb_followers": "772",
         "url": "http://www.weezic.com/fr/",
-        "partnerType": "MEDIA",
+        "category": "MEDIA",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/weezic.png",
         "Description_Tw": "http://t.co/H04Zv5RMTI: Augmented sheet music\u00ce\u00c2 to make music practice more fun and lively. Play with a full symphony orchestra at home! Start-up based in Paris.",
         "Url_Tw": "http://t.co/H04Zv5RMTI"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "4774",
         "Screen_name": "welovewords",
         "Nb_follow": "2591",
@@ -5977,14 +5977,14 @@
         "name": "Welovewords",
         "Nb_followers": "4383",
         "url": "http://www.welovewords.com/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/welovewords",
         "Description_Tw": "1\u2019\u00e5re communaut\u2019\u00a9 d'auteurs r\u2019\u00a9unissant 18 000 plumes cr\u2019\u00a9atives,  concepteur-r\u2019\u00a9dacteurs, paroliers...Agence, marque, industrie cr\u2019\u00a9ative: rdv sur @youlovewords",
         "Url_Tw": "http://t.co/l7LntwF0bq"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "330",
         "Screen_name": "wezzoo",
         "Nb_follow": "1308",
@@ -6012,14 +6012,14 @@
         "name": "Wezzoo",
         "Nb_followers": "451",
         "url": "http://wezzoo.com/",
-        "partnerType": "BUSINESS",
+        "category": "BUSINESS",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/wezzoo.png",
         "Description_Tw": "Weather By You - We are a social and real time weather service. iPhone & iPad http://t.co/tF4jjg8CdW and Android devices http://t.co/uhtKDdFq1X",
         "Url_Tw": "http://t.co/2jGSaaSJ2G"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "830",
         "Screen_name": "whyd",
         "Nb_follow": "7",
@@ -6047,14 +6047,14 @@
         "name": "Whyd",
         "Nb_followers": "2032",
         "url": "http://whyd.com/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/whyd.png",
         "Description_Tw": "the place for your favorite music",
         "Url_Tw": "http://t.co/0z3kfpZMbx"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "",
         "Screen_name": "",
         "Nb_follow": "",
@@ -6082,14 +6082,14 @@
         "name": "Wimi",
         "Nb_followers": "",
         "url": "http://www.wimi.pro",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/wimi.png",
         "Description_Tw": "",
         "Url_Tw": ""
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "4892",
         "Screen_name": "Wipolo",
         "Nb_follow": "1615",
@@ -6117,14 +6117,14 @@
         "name": "Wipolo",
         "Nb_followers": "1834",
         "url": "http://www.wipolo.com/fr",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/wipolo.jpeg",
         "Description_Tw": "Get into social travel with Wipolo! Connect your trips with friends and family. Forward us your booking emails, we create your travel plans. Web&mobile.",
         "Url_Tw": "http://t.co/8C7i8hzwIp"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "1122",
         "Screen_name": "wiseed",
         "Nb_follow": "1582",
@@ -6152,14 +6152,14 @@
         "name": "Wiseed",
         "Nb_followers": "3065",
         "url": "http://www.wiseed.com",
-        "partnerType": "BUSINESS",
+        "category": "BUSINESS",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/wiseed.jpg",
         "Description_Tw": "Choisir, investir et financer collectivement les plus belles startups fran\u2019_aises.  WiSEED, plateforme fran\u2019_aise n\u00ce\u00e71 en equity #crowdfunding depuis 2008",
         "Url_Tw": "http://t.co/iUTe0NPbZL"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "9238",
         "Screen_name": "wizbii",
         "Nb_follow": "1518",
@@ -6187,14 +6187,14 @@
         "name": "Wizbii",
         "Nb_followers": "5629",
         "url": "http://www.wizbii.com/",
-        "partnerType": "SOCIAL",
+        "category": "SOCIAL",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/wizbii.jpg",
         "Description_Tw": "Le r\u2019\u00a9seau social professionnel des \u2019\u00a9tudiants et jeunes dipl\u2019\u201am\u2019\u00a9s #emploi #entrepreneuriat #etudiant",
         "Url_Tw": "http://t.co/ZboFVa6bu4"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "386",
         "Screen_name": "Yatedo",
         "Nb_follow": "1146",
@@ -6222,14 +6222,14 @@
         "name": "Yatedo",
         "Nb_followers": "1180",
         "url": "http://www.yatedo.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/Yatedo.png",
         "Description_Tw": "the only Semantic People Search that cares about your reputation.",
         "Url_Tw": "http://t.co/RDQQmB2CzB"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "252",
         "Screen_name": "YesProfile",
         "Nb_follow": "399",
@@ -6257,14 +6257,14 @@
         "name": "Yesprofile",
         "Nb_followers": "166",
         "url": "http://www.yesprofile.com",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/yesprofile.png",
         "Description_Tw": "Votre #profil vaut de l'argent ! Reprenez le contr\u2019\u201ale en r\u2019\u00a9cup\u2019\u00a9rant la ma\u2019\u00c2trise et la propri\u2019\u00a9t\u2019\u00a9 de vos donn\u2019\u00a9es personnelle #Facebook http://t.co/th8sTNgcT4",
         "Url_Tw": "http://t.co/tpramP3H3N"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "51",
         "Screen_name": "yoopies",
         "Nb_follow": "45",
@@ -6292,14 +6292,14 @@
         "name": "Yoopies",
         "Nb_followers": "275",
         "url": "http://www.yoopies.fr",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/Yoopies.png",
         "Description_Tw": "Yoopies est la 1\u2019\u00e5re plateforme sociale qui permet aux parents de trouver la baby-sitter ou nounou id\u2019\u00a9ale gr\u2019\u00a2ce aux recommandations de son r\u2019\u00a9seau d'amis.",
         "Url_Tw": "http://t.co/OSZlA8gvVY"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "793",
         "Screen_name": "youboox",
         "Nb_follow": "513",
@@ -6327,14 +6327,14 @@
         "name": "Youboox",
         "Nb_followers": "721",
         "url": "http://www.youboox.fr",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/youboox.png",
         "Description_Tw": "Des milliers d'ebooks dans votre poche disponibles \u2019\u00be tout instant. Romans, BD, guides de voyage... \u2019\u00be lire en streaming en illimit\u2019\u00a9 sur l'\u2019\u00a9cran de votre choix !",
         "Url_Tw": "http://t.co/7dkkISvk6U"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "7249",
         "Screen_name": "YouScribe_fr",
         "Nb_follow": "1799",
@@ -6362,14 +6362,14 @@
         "name": "YouScribe",
         "Nb_followers": "2798",
         "url": "http://www.youscribe.com/",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/youscribe.png",
         "Description_Tw": "La biblioth\u2019\u00e5que digitale de tous les \u2019\u00a9crits en lecture illimit\u2019\u00a9e. Sur PC,  tablettes et smartphones. #Actu #Sondages #Etudes #Education #Romans #Guides #Ebooks",
         "Url_Tw": "http://t.co/gkjBoEYP0k"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "4370",
         "Screen_name": "YouSeeMii",
         "Nb_follow": "573",
@@ -6397,14 +6397,14 @@
         "name": "Youseemii",
         "Nb_followers": "4217",
         "url": "http://www.youseemii.fr",
-        "partnerType": "SERVICE",
+        "category": "SERVICE",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/youseemii.jpg",
         "Description_Tw": "Indice de Visibilit\u2019\u00a9 sur le Web, Veille Internet & Social M\u2019\u00a9dias \n\nhttp://t.co/W15JxfB0pQ l \nhttp://t.co/UhG71htM2X",
         "Url_Tw": "http://t.co/MxsYddtyz6"
     }
     ,
     {
-        "category": "1",
+        
         "Nb_tweets": "5115",
         "Screen_name": "yupeek",
         "Nb_follow": "4259",
@@ -6432,7 +6432,7 @@
         "name": "Yupeek",
         "Nb_followers": "8824",
         "url": "http://yupeek.com/",
-        "partnerType": "SOCIAL",
+        "category": "SOCIAL",
         "logoUrl": "http://onecubstokage.blob.core.windows.net/partnerlogos/yupeek.jpeg",
         "Description_Tw": "Le r\u2019\u00a9seau social professionnel des \u2019\u00a9tudiants et jeunes dipl\u2019\u201am\u2019\u00a9s #RH #RecrutementMS #Reseauxsociaux | En recherche d'emploi suivez @Yupeek_jobs",
         "Url_Tw": "http://t.co/UfClvXoeMX"

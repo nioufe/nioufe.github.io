@@ -1,6 +1,25 @@
+@font-face {
+    font-family: stag-light;
+    src: url('font/Stag Sans-Light.otf');
+}
+@font-face {
+    font-family: stag-medium;
+    src: url('font/StagSans-Medium.otf');
+}
+@font-face {
+    font-family: stag-thin;
+    src: url('font/Stag Sans-Thin.otf');
+}
+body{
+    font-family: stag-light;
+}
+h1,h2,h3,h4{
+    font-family: stag-light;
+}
 .su_panel{
     background: #1d1d1b;
     color: #ffffff;
+    overflow: hidden;
 }
 
 .su_center{
@@ -46,4 +65,27 @@ path.arc {
 }
 
 .partition {
+}
+.left{
+    padding: 0px 20px;
+}
+.left h3{
+    overflow-wrap: break-word;
+    font-size: 20px;
+}
+.icon_container{
+    padding-top: 10px;
+    text-align: center;
+}
+
+.panel_row{
+    padding-bottom: 25px;
+}
+.description{
+    max-height: 150px;
+    overflow: hidden;
+}
+
+.su_bold{
+    font-family: stag-medium;
 }

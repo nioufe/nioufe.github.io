@@ -6,18 +6,19 @@ var Graph = {};
 (function () {
     var color = function (name) {
         var colors = {
-            '1': '#bdccd4',
-            '2': '#c72727',
-            '3': '#b8b3aa',
-            '4': '#fbb584',
-            '5': '#cea08f',
-            '6': '#5b7092'
+            'SOCIAL': '#bdccd4',
+            'BUSINESS': '#c72727',
+            'ECOMMERCE': '#b8b3aa',
+            'EMPLOI': '#fbb584',
+            'MEDIA': '#cea08f',
+            'SERVICE': '#5b7092'
         }
         return colors[name];
     }
 
     // Chrome 15 bug: <http://code.google.com/p/chromium/issues/detail?id=98951>
     var m0, svg;
+
     Graph.init = function () {
         var w = $('.su_center').width(),
             h = $('.su_center').height(),
@@ -27,7 +28,10 @@ var Graph = {};
         var cluster = d3.layout.cluster()
             .size([360, ry - 120])
             .sort(function (a, b) {
-                return d3.ascending(a.name, b.name);
+                if(!a.metric || !b.metric){
+                    return d3.ascending(a.name, b.name);
+                }
+                return d3.ascending(a.metric, b.metric);
             });
 
         var partition = d3.layout.partition()
@@ -55,10 +59,10 @@ var Graph = {};
         var arc = d3.svg.arc()
             .startAngle(function (d) {
                 console.log(d);
-                return d.x;
+                return (d.x + 0.0445);
             })
             .endAngle(function (d) {
-                return (d.x + d.dx);
+                return (d.x + d.dx + 0.0445);
             })
             .innerRadius(function (d) {
                 return (ry - 90);
@@ -68,13 +72,13 @@ var Graph = {};
             });
         var div = d3.select(".su_center").insert("div")
             .style("width", w + "px")
-            .style("height", w + "px")
+            .style("height", h + "px")
             .style("position", "absolute")
             .style("-webkit-backface-visibility", "hidden");
 
         svg = div.append("svg:svg")
             .attr("width", w)
-            .attr("height", w)
+            .attr("height", h)
             .append("svg:g")
             .attr("transform", "translate(" + rx + "," + ry + ")");
 
@@ -83,7 +87,7 @@ var Graph = {};
             .attr("d", d3.svg.arc().outerRadius(ry - 120).innerRadius(0).startAngle(0).endAngle(2 * Math.PI))
             .on("mousedown", mousedown);
 
-        d3.json("json/startups_test.json", function (startups) {
+        d3.json("json/startup_fin.json", function (startups) {
             var partitionRoot = Startups.root(startups);
             var partitionNodes = partition.nodes(partitionRoot);
 
@@ -122,7 +126,7 @@ var Graph = {};
 
         });
 
-        d3.json("json/startups_test.json", function (startups) {
+        d3.json("json/startup_fin.json", function (startups) {
             var root = Startups.root(startups);
             var nodes = cluster.nodes(root);
 
@@ -133,7 +137,7 @@ var Graph = {};
                 .data(links)
                 .enter().append("svg:path")
                 .attr("class", function (d) {
-                    return "link source-" + d.source.name + " target-" + d.target.name;
+                    return "link source-" + d.source.Screen_name + " target-" + d.target.Screen_name;
                 })
                 .attr("d", function (d, i) {
                     return line(splines[i]);
@@ -144,22 +148,25 @@ var Graph = {};
 
             svg.selectAll("g.node")
                 .data(nodes.filter(function (n) {
+                    if(n.metric === 0){
+                        console.log(n);
+                    }
                     return !n.children;
                 }))
                 .enter().append("svg:g")
                 .attr("class", "node")
                 .attr("id", function (d) {
-                    return "node-" + d.name;
+                    return "node-" + d.Screen_name;
                 })
                 .attr("transform", function (d) {
-                    return "rotate(" + (d.x - 90) + ")translate(" + (d.value + d.y + 40) + ", -6)";
+                    return "rotate(" + (d.x - 90) + ")translate(" + (d.metric + d.y + 50) + ", -6)";
                 })
                 .append("svg:rect")
                 .attr("width", function (d) {
                     return 12 + "px";
                 })
                 .attr("height", function (d) {
-                    return d.value + "px";
+                    return (10 +d.metric) + "px";
                 })
                 .style("fill", function(d) {
                     return color(d.category);
@@ -229,28 +236,31 @@ var Graph = {};
 
     function mouseover(d) {
         UIPanels.changeStartup(d);
-        svg.select('#node-' + d.name)
-            .classed('current', true);
-        svg.selectAll("path.link.target-" + d.name)
+        svg.select('#node-' + d.Screen_name)
+            .classed('current', true)
+            .attr('stroke', 'white')
+            .attr('stroke-width', '3');
+        svg.selectAll("path.link.target-" + d.Screen_name)
             .classed("target", true)
             .style("stroke", color(d.category))
             .each(updateNodes("source", true));
 
-        svg.selectAll("path.link.source-" + d.name)
+        svg.selectAll("path.link.source-" + d.Screen_name)
             .classed("source", true)
             .style("stroke", color(d.category))
             .each(updateNodes("target", true));
     }
 
     function mouseout(d) {
-        svg.select('#node-' + d.name)
-            .classed('current', false);
-        svg.selectAll("path.link.source-" + d.name)
+        svg.select('#node-' + d.Screen_name)
+            .classed('current', false)
+            .attr('stroke', '');
+        svg.selectAll("path.link.source-" + d.Screen_name)
             .classed("source", false)
             .style("stroke", '')
             .each(updateNodes("target", false));
 
-        svg.selectAll("path.link.target-" + d.name)
+        svg.selectAll("path.link.target-" + d.Screen_name)
             .classed("target", false)
             .style("stroke", '')
             .each(updateNodes("source", false));
@@ -259,7 +269,7 @@ var Graph = {};
     function updateNodes(name, value) {
         return function (d) {
             if (value) this.parentNode.appendChild(this);
-            svg.select("#node-" + d[name].name).classed(name, value);
+            svg.select("#node-" + d[name].Screen_name).classed(name, value);
         };
     }
 
