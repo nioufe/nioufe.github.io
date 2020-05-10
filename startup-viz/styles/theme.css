@@ -1,0 +1,91 @@
+@font-face {
+    font-family: stag-light;
+    src: url('font/Stag Sans-Light.otf');
+}
+@font-face {
+    font-family: stag-medium;
+    src: url('font/StagSans-Medium.otf');
+}
+@font-face {
+    font-family: stag-thin;
+    src: url('font/Stag Sans-Thin.otf');
+}
+body{
+    font-family: stag-light;
+}
+h1,h2,h3,h4{
+    font-family: stag-light;
+}
+.su_panel{
+    background: #1d1d1b;
+    color: #ffffff;
+    overflow: hidden;
+}
+
+.su_center{
+    background: #e2dfcf;
+}
+
+
+path.arc {
+    cursor: move;
+    fill: #e2dfcf;
+}
+
+.node {
+    font-size: 10px;
+}
+
+.node:hover {
+    fill: #1f77b4;
+}
+
+.link {
+    fill: none;
+    stroke: #ffffff;
+    stroke-opacity: .2;
+    pointer-events: none;
+}
+
+.link.source, .link.target {
+    stroke-opacity: 1;
+}
+
+.node rect{
+    opacity: .4;
+}
+.node.target {
+    fill: #d62728 !important;
+}
+.node.target rect, .node.source rect, .node.current rect{
+    opacity: 1;
+}
+.node.source {
+    fill: #2ca02c;
+}
+
+.partition {
+}
+.left{
+    padding: 0px 20px;
+}
+.left h3{
+    overflow-wrap: break-word;
+    font-size: 20px;
+}
+.icon_container{
+    padding-top: 10px;
+    text-align: center;
+}
+
+.panel_row{
+    padding-bottom: 25px;
+}
+.description{
+    max-height: 150px;
+    overflow: hidden;
+}
+
+.su_bold{
+    font-family: stag-medium;
+}
