@@ -1,0 +1,127 @@
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.min.css"
+        integrity="sha512-xiunq9hpKsIcz42zt0o2vCo34xV0j6Ny8hgEylN3XBglZDtTZ2nwnqF/Z/TTCc18sGdvCjbFInNd++6q3J0N6g=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://unpkg.com/vue@3/dist/vue.global.prod.js"></script>
+    <title>L'heritage du Vaudou</title>
+</head>
+
+<body>
+</body>
+
+</html>
+<div id="app" class="container">
+    <h1>L'heritage du Vaudou</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Tour</th>
+                <th>Enlever Tuile</th>
+                <th>Retourner Tuile</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr v-for="(tour, index) in toursAJouer">
+                <td>{{index + 1}}</td>
+                <td>{{tour.tuileAEnlever}}</td>
+                <td>{{tour.tuileARetourner}}</td>
+            </tr>
+        </tbody>
+    </table>
+    <button v-if="tuilesRestantes > 1" class="button" @click="onClickTourSuivant">Tour Suivant</button>
+    <button v-else class="button" disabled>Plus de tuiles à enlever!</button>
+    <div class="float-right">
+      <p>Tuiles Restantes: {{tuilesRestantes}}</p>
+    </div>
+</div>
+
+<script type="module">
+    import { createApp } from 'https://unpkg.com/vue@3/dist/vue.esm-browser.js'
+    const enleveTuile = (nom, tableau) => tableau.filter(tuile => tuile !== nom);
+    createApp({
+        data() {
+            return {
+                tuilesExterieures: ['1A', '1B', '1C', '1D', '1E', '1F','1G', '1H', '1I', '1J', '1K', '1L'],
+                tuilesInterieures: ['2A', '2B', '2C', '2D', '2E', '2F'],
+                tuilesCentre: ['3A'],
+                toursAJouer: []
+            }
+        },
+        computed: {
+            tuilesRestantes() {
+                return this.tuilesExterieures.length + this.tuilesInterieures.length + this.tuilesCentre.length;
+            }
+        },
+        methods: {
+            onClickTourSuivant() {
+            /** DETRUIT **/
+            // prend le cercle dans lequel il reste des tuiles
+            if(this.tuilesInterieures.length < 1) {
+                // pas forcement necessaire mais toujous bien de pas lancer la fonction si ya plus rien a faire
+                return;
+            }
+            const tuilesRestantes = this.tuilesExterieures.length > 0 ? [...this.tuilesExterieures] : [...this.tuilesInterieures];
+            // choisie une tuile aleatoirement
+            const indexAEnlever = Math.trunc(Math.random() * tuilesRestantes.length);
+            const tuileAEnlever = tuilesRestantes[indexAEnlever];
+            // essaye d'enlever la tuile de toute les listes (on pourrait optimiser en l'enlevant uniquement du cercle dans lequel elle se situe)
+            this.tuilesExterieures = enleveTuile(tuileAEnlever, this.tuilesExterieures);
+            this.tuilesInterieures = enleveTuile(tuileAEnlever, this.tuilesInterieures);
+            this.tuileCentre = enleveTuile(tuileAEnlever, this.tuilesCentre);
+            /** RETOURNE **/
+            // recupere toutes les tuiles encore existantes
+            const toutesLesTuiles = [...this.tuilesExterieures, ...this.tuilesInterieures, ...this.tuileCentre];
+            const tuilesRetournees = this.toursAJouer.map(tour => tour.tuileARetourner);
+            // enleve les tuiles deja retournees (pour chaque tuile, verifie si elle est dans la liste des tuiles retournees et filtre la en fonction)
+            const toutesLesTuilesMoinsRetournees = toutesLesTuiles.filter(tuile => !tuilesRetournees.includes(tuile));
+            const indexARetourner = Math.trunc(Math.random() * toutesLesTuilesMoinsRetournees.length);
+            const tuileARetourner = toutesLesTuilesMoinsRetournees[indexARetourner];
+            // garde la tuile retournee dans une liste pour les prochain tours
+            // ecrit le resultat du tour
+            this.toursAJouer.push({
+                tuileARetourner: tuileARetourner,
+                tuileAEnlever: tuileAEnlever
+            });
+            }
+        }
+    }).mount('#app')
+
+    const generateTuiles = () => {
+        // // liste des tuiles par cercle
+        // let tuilesExterieures = ["1A", "1B", "1C", "1D"];
+        // let tuilesInterieures = ["2A", "2B"];
+        // let tuileCentre = ["3A"];
+
+        // // tuiles retournees mais toujours existantes
+        // const tuileRetournees = [];
+
+        const enleveTuile = (nom, tableau) => tableau.filter(tuile => tuile !== nom)
+
+        // pour chaque tour
+        for (let i = 0; i < 18; i++) {
+            /** DETRUIT **/
+            // prend le cercle dans lequel il reste des tuiles
+            const tuilesRestantes = tuilesExterieures.length > 0 ? [...tuilesExterieures] : [...tuilesInterieures];
+            // choisie une tuile aleatoirement
+            const indexAEnlever = Math.trunc(Math.random() * tuilesRestantes.length);
+            const tuileAEnlever = tuilesRestantes[indexAEnlever];
+            // essaye d'enlever la tuile de toute les listes (on pourrait optimiser en l'enlevant uniquement du cercle dans lequel elle se situe)
+            tuilesExterieures = enleveTuile(tuileAEnlever, tuilesExterieures);
+            tuilesInterieures = enleveTuile(tuileAEnlever, tuilesInterieures);
+            tuileCentre = enleveTuile(tuileAEnlever, tuileCentre);
+            /** RETOURNE **/
+            // recupere toutes les tuiles encore existantes
+            const toutesLesTuiles = [...tuilesExterieures, ...tuilesInterieures, ...tuileCentre];
+            // enleve les tuiles deja retournees (pour chaque tuile, verifie si elle est dans la liste des tuiles retournees et filtre la en fonction)
+            const toutesLesTuilesMoinsRetournees = toutesLesTuiles.filter(tuile => !tuileRetournees.includes(tuile));
+            const indexARetourner = Math.trunc(Math.random() * toutesLesTuilesMoinsRetournees.length);
+            const tuileARetourner = toutesLesTuilesMoinsRetournees[indexARetourner];
+            // garde la tuile retournee dans une liste pour les prochain tours
+            tuileRetournees.push(tuileARetourner);
+            // ecrit le resultat du tour
+            console.log('Tour:', i + 1, 'Enleve', tuileAEnlever, '| Retourne', tuileARetourner);
+        }
+    }
+</script>
