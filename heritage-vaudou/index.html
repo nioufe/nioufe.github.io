@@ -27,16 +27,27 @@
         </thead>
         <tbody>
             <tr v-for="(tour, index) in toursAJouer">
-                <td>{{index + 1}}</td>
+                <td>{{tour.isManuel ? 'Manuel' : index + 1}}</td>
                 <td>{{tour.tuileAEnlever}}</td>
                 <td>{{tour.tuileARetourner}}</td>
             </tr>
         </tbody>
     </table>
-    <button v-if="tuilesRestantes > 1" class="button" @click="onClickTourSuivant">Tour Suivant</button>
+    <form @submit.prevent="onClickRetourner(tuileSelectionnee)">
+        <fieldset>
+            <label for="champRetourner">Retourner la tuile manuellement</label>
+            <select id="champRetourner" v-model="tuileSelectionnee">
+                <option v-for="(tuile) in tuilesRetournables" @value="tuile">{{tuile}}</option>
+            </select>
+            <div class="float-right">
+                <input class="button-primary" type="submit" value="Retourner">
+            </div>
+        </fieldset>
+    </form>
+    <button v-if="tuilesRestantes > 1" class="button" @click="onClickTourSuivant">Générer Tour Suivant</button>
     <button v-else class="button" disabled>Plus de tuiles à enlever!</button>
     <div class="float-right">
-      <p>Tuiles Restantes: {{tuilesRestantes}}</p>
+        <p>Tuiles Restantes: {{tuilesRestantes}}</p>
     </div>
 </div>
 
@@ -46,47 +57,62 @@
     createApp({
         data() {
             return {
-                tuilesExterieures: ['1A', '1B', '1C', '1D', '1E', '1F','1G', '1H', '1I', '1J', '1K', '1L'],
+                tuilesExterieures: ['1A', '1B', '1C', '1D', '1E', '1F', '1G', '1H', '1I', '1J', '1K', '1L'],
                 tuilesInterieures: ['2A', '2B', '2C', '2D', '2E', '2F'],
                 tuilesCentre: ['3A'],
-                toursAJouer: []
+                toursAJouer: [],
+                tuileSelectionnee: undefined,
             }
         },
         computed: {
             tuilesRestantes() {
                 return this.tuilesExterieures.length + this.tuilesInterieures.length + this.tuilesCentre.length;
+            },
+            tuilesRetournables() {
+                const toutesLesTuiles = [...this.tuilesExterieures, ...this.tuilesInterieures, ...this.tuilesCentre];
+                const tuilesRetournees = this.toursAJouer.map(tour => tour.tuileARetourner);
+                // enleve les tuiles deja retournees (pour chaque tuile, verifie si elle est dans la liste des tuiles retournees et filtre la en fonction)
+                return toutesLesTuiles.filter(tuile => !tuilesRetournees.includes(tuile));
             }
         },
         methods: {
+            onClickRetourner(tuileSelectionnee) {
+                console.log('retourner')
+                const tuileARetourner = this.tuilesRetournables.find(element => element === tuileSelectionnee);
+                // garde la tuile retournee dans une liste pour les prochain tours
+                // ecrit le resultat du tour
+                this.toursAJouer.push({
+                    isManuel: true,
+                    tuileARetourner: tuileARetourner
+                });
+
+            },
             onClickTourSuivant() {
-            /** DETRUIT **/
-            // prend le cercle dans lequel il reste des tuiles
-            if(this.tuilesInterieures.length < 1) {
-                // pas forcement necessaire mais toujous bien de pas lancer la fonction si ya plus rien a faire
-                return;
-            }
-            const tuilesRestantes = this.tuilesExterieures.length > 0 ? [...this.tuilesExterieures] : [...this.tuilesInterieures];
-            // choisie une tuile aleatoirement
-            const indexAEnlever = Math.trunc(Math.random() * tuilesRestantes.length);
-            const tuileAEnlever = tuilesRestantes[indexAEnlever];
-            // essaye d'enlever la tuile de toute les listes (on pourrait optimiser en l'enlevant uniquement du cercle dans lequel elle se situe)
-            this.tuilesExterieures = enleveTuile(tuileAEnlever, this.tuilesExterieures);
-            this.tuilesInterieures = enleveTuile(tuileAEnlever, this.tuilesInterieures);
-            this.tuileCentre = enleveTuile(tuileAEnlever, this.tuilesCentre);
-            /** RETOURNE **/
-            // recupere toutes les tuiles encore existantes
-            const toutesLesTuiles = [...this.tuilesExterieures, ...this.tuilesInterieures, ...this.tuileCentre];
-            const tuilesRetournees = this.toursAJouer.map(tour => tour.tuileARetourner);
-            // enleve les tuiles deja retournees (pour chaque tuile, verifie si elle est dans la liste des tuiles retournees et filtre la en fonction)
-            const toutesLesTuilesMoinsRetournees = toutesLesTuiles.filter(tuile => !tuilesRetournees.includes(tuile));
-            const indexARetourner = Math.trunc(Math.random() * toutesLesTuilesMoinsRetournees.length);
-            const tuileARetourner = toutesLesTuilesMoinsRetournees[indexARetourner];
-            // garde la tuile retournee dans une liste pour les prochain tours
-            // ecrit le resultat du tour
-            this.toursAJouer.push({
-                tuileARetourner: tuileARetourner,
-                tuileAEnlever: tuileAEnlever
-            });
+                /** DETRUIT **/
+                // prend le cercle dans lequel il reste des tuiles
+                if (this.tuilesInterieures.length < 1) {
+                    // pas forcement necessaire mais toujous bien de pas lancer la fonction si ya plus rien a faire
+                    return;
+                }
+                const tuilesRestantes = this.tuilesExterieures.length > 0 ? [...this.tuilesExterieures] : [...this.tuilesInterieures];
+                // choisie une tuile aleatoirement
+                const indexAEnlever = Math.trunc(Math.random() * tuilesRestantes.length);
+                const tuileAEnlever = tuilesRestantes[indexAEnlever];
+                // essaye d'enlever la tuile de toute les listes (on pourrait optimiser en l'enlevant uniquement du cercle dans lequel elle se situe)
+                this.tuilesExterieures = enleveTuile(tuileAEnlever, this.tuilesExterieures);
+                this.tuilesInterieures = enleveTuile(tuileAEnlever, this.tuilesInterieures);
+                this.tuileCentre = enleveTuile(tuileAEnlever, this.tuilesCentre);
+                /** RETOURNE **/
+                // recupere toutes les tuiles encore existantes
+
+                const indexARetourner = Math.trunc(Math.random() * this.tuilesRetournables.length);
+                const tuileARetourner = this.tuilesRetournables[indexARetourner];
+                // garde la tuile retournee dans une liste pour les prochain tours
+                // ecrit le resultat du tour
+                this.toursAJouer.push({
+                    tuileARetourner: tuileARetourner,
+                    tuileAEnlever: tuileAEnlever
+                });
             }
         }
     }).mount('#app')
